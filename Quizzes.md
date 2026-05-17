@@ -8,11 +8,11 @@ permalink: /quizzes/
 
 <p class="lede">Practice questions collected while studying. Use these for quick recall, then reveal the answer when you are ready.</p>
 
-## Project Foundations & Lifecycle
+## Chapter 1: Foundations & Lifecycle
 
-<section class="quiz-list" aria-label="Project+ practice questions">
+<section class="quiz-list" aria-label="Chapter 1 Foundations and Lifecycle practice questions">
   <article class="quiz-card">
-    <p class="quiz-meta">Question 1</p>
+    <p class="quiz-meta">Chapter 1 Question 1</p>
     <h2>Which of the following best describes the target audience for the CompTIA Project+ exam?</h2>
 
     <ol class="quiz-options" type="A">
@@ -29,7 +29,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Question 2</p>
+    <p class="quiz-meta">Chapter 1 Question 2</p>
     <h2>How many questions does the CompTIA Project+ exam have?</h2>
 
     <ol class="quiz-options" type="A">
@@ -46,7 +46,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Question 3</p>
+    <p class="quiz-meta">Chapter 1 Question 3</p>
     <h2>Which of the following are characteristics of a project? Choose 3.</h2>
 
     <ol class="quiz-options" type="A">
@@ -65,7 +65,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Question 4</p>
+    <p class="quiz-meta">Chapter 1 Question 4</p>
     <h2>What do we mean when we say a project is distinct from operations? Choose 2.</h2>
 
     <ol class="quiz-options" type="A">
@@ -82,7 +82,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Question 5</p>
+    <p class="quiz-meta">Chapter 1 Question 5</p>
     <h2>Which of the following are the CompTIA Project+ lifecycle phases? Choose 5.</h2>
 
     <ol class="quiz-options" type="A">
@@ -103,7 +103,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Question 6</p>
+    <p class="quiz-meta">Chapter 1 Question 6</p>
     <h2>In which phase has the project formally been authorised to start?</h2>
 
     <ol class="quiz-options" type="A">
@@ -121,7 +121,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Question 7</p>
+    <p class="quiz-meta">Chapter 1 Question 7</p>
     <h2>Which of the following is true regarding projects, programs, and portfolios?</h2>
 
     <ol class="quiz-options" type="A">
@@ -138,11 +138,11 @@ permalink: /quizzes/
   </article>
 </section>
 
-## Project Management Approaches
+## Chapter 2: Project Management Approaches
 
-<section class="quiz-list" aria-label="Project management approaches practice questions">
+<section class="quiz-list" aria-label="Chapter 2 Project Management Approaches practice questions">
   <article class="quiz-card">
-    <p class="quiz-meta">Approaches Question 1</p>
+    <p class="quiz-meta">Chapter 2 Question 1</p>
     <h2>The Waterfall project management approach might also be known as what?</h2>
 
     <ol class="quiz-options" type="A">
@@ -159,7 +159,7 @@ permalink: /quizzes/
   </article>
 
   <article class="quiz-card">
-    <p class="quiz-meta">Approaches Question 2</p>
+    <p class="quiz-meta">Chapter 2 Question 2</p>
     <h2>Match up the two halves of the 4 values from the Agile Manifesto. We value:</h2>
 
     <ul class="quiz-options">

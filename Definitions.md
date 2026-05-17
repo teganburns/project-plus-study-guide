@@ -6,21 +6,19 @@ permalink: /definitions/
 
 # Project+ Definitions
 
-<p class="lede">Search definitions or filter by category. Click a card to flip it and review the meaning.</p>
+<p class="lede">Search definitions or filter by chapter. Click a card to flip it and review the meaning.</p>
 
 <div class="definition-browser">
   <label class="definition-search-label" for="definition-search">Search definitions</label>
-  <input class="definition-search" id="definition-search" type="search" placeholder="Search by term, keyword, or exam cue" autocomplete="off" aria-controls="definition-card-grid">
+  <input class="definition-search" id="definition-search" type="search" placeholder="Search by term, keyword, chapter, or exam cue" autocomplete="off" aria-controls="definition-card-grid">
 
   <div class="definition-layout">
-    <aside class="definition-sidebar" aria-label="Definition categories">
-      <p class="definition-sidebar-title">Categories</p>
+    <aside class="definition-sidebar" aria-label="Definition chapters">
+      <p class="definition-sidebar-title">Chapters</p>
       <div class="definition-filter-list">
         <button class="definition-filter is-active" type="button" data-definition-category="all" aria-pressed="true">All</button>
-        <button class="definition-filter" type="button" data-definition-category="foundations" aria-pressed="false">Foundations</button>
-        <button class="definition-filter" type="button" data-definition-category="lifecycle" aria-pressed="false">Lifecycle</button>
-        <button class="definition-filter" type="button" data-definition-category="programs-portfolios" aria-pressed="false">Programs &amp; Portfolios</button>
-        <button class="definition-filter" type="button" data-definition-category="approaches" aria-pressed="false">Approaches</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-1" aria-pressed="false">Chapter 1: Foundations &amp; Lifecycle</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-2" aria-pressed="false">Chapter 2: Approaches</button>
       </div>
     </aside>
 
@@ -28,10 +26,10 @@ permalink: /definitions/
       <p class="definition-result-count" id="definition-result-count">Showing all definitions</p>
 
       <div class="definition-grid" id="definition-card-grid">
-        <article class="definition-card" data-category="foundations" data-search="project temporary unique product service result purpose start finish beginning end operations program portfolio" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="project temporary unique product service result purpose start finish beginning end operations program portfolio" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Foundations</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Project</h2>
             </div>
             <div class="definition-face definition-back">
@@ -47,10 +45,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="foundations" data-search="operations ongoing indefinite recurring business as usual day to day handover project transition" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="operations ongoing indefinite recurring business as usual day to day handover project transition" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Foundations</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Operations</h2>
             </div>
             <div class="definition-face definition-back">
@@ -65,10 +63,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="lifecycle" data-search="discovery concept preparation lifecycle business need opportunity before initiation approval" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="discovery concept preparation lifecycle business need opportunity before initiation approval" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Lifecycle</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Discovery / Concept Preparation</h2>
             </div>
             <div class="definition-face definition-back">
@@ -79,10 +77,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="lifecycle" data-search="initiation lifecycle authorize authorised charter formally start stakeholders objectives constraints" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="initiation lifecycle authorize authorised charter formally start stakeholders objectives constraints" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Lifecycle</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Initiation</h2>
             </div>
             <div class="definition-face definition-back">
@@ -97,10 +95,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="lifecycle" data-search="planning lifecycle scope schedule budget resources risks management approach plan" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="planning lifecycle scope schedule budget resources risks management approach plan" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Lifecycle</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Planning</h2>
             </div>
             <div class="definition-face definition-back">
@@ -111,10 +109,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="lifecycle" data-search="execution lifecycle perform work manage delivery deliverables team" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="execution lifecycle perform work manage delivery deliverables team" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Lifecycle</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Execution</h2>
             </div>
             <div class="definition-face definition-back">
@@ -125,10 +123,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="lifecycle" data-search="closing lifecycle acceptance final deliverables release resources archive records lessons learned" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="closing lifecycle acceptance final deliverables release resources archive records lessons learned" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Lifecycle</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Closing</h2>
             </div>
             <div class="definition-face definition-back">
@@ -142,10 +140,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="programs-portfolios" data-search="program related projects managed together shared outcomes dependencies resources benefits" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="program related projects managed together shared outcomes dependencies resources benefits" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Programs &amp; Portfolios</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Program</h2>
             </div>
             <div class="definition-face definition-back">
@@ -159,10 +157,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="programs-portfolios" data-search="program management interdependencies related projects dependencies coordinate benefits outcomes" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="program management interdependencies related projects dependencies coordinate benefits outcomes" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Programs &amp; Portfolios</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Program Management</h2>
             </div>
             <div class="definition-face definition-back">
@@ -176,10 +174,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="programs-portfolios" data-search="portfolio projects programs operations coordinated organizational objectives strategy strategic goals" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="portfolio projects programs operations coordinated organizational objectives strategy strategic goals" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Programs &amp; Portfolios</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Portfolio</h2>
             </div>
             <div class="definition-face definition-back">
@@ -193,10 +191,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="programs-portfolios" data-search="portfolio management selecting oversight prioritizing balancing governing strategic objectives value alignment" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-1" data-search="portfolio management selecting oversight prioritizing balancing governing strategic objectives value alignment" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Programs &amp; Portfolios</p>
+              <p class="definition-label">Chapter 1</p>
               <h2>Portfolio Management</h2>
             </div>
             <div class="definition-face definition-back">
@@ -210,10 +208,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="waterfall predictive sequential phased requirements design build test deploy traditional approach" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="waterfall predictive sequential phased requirements design build test deploy traditional approach" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Waterfall</h2>
             </div>
             <div class="definition-face definition-back">
@@ -228,10 +226,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="agile overview adaptive iterative incremental software development change customer feedback value collaboration" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="agile overview adaptive iterative incremental software development change customer feedback value collaboration" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Agile</h2>
             </div>
             <div class="definition-face definition-back">
@@ -245,10 +243,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="12 principles agile manifesto customer satisfaction welcome change frequent delivery collaboration motivated teams simplicity reflection" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="12 principles agile manifesto customer satisfaction welcome change frequent delivery collaboration motivated teams simplicity reflection" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>12 Principles of Agile</h2>
             </div>
             <div class="definition-face definition-back">
@@ -263,10 +261,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="agile manifesto values individuals interactions processes tools working software comprehensive documentation customer collaboration contract negotiation responding to change following a plan" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="agile manifesto values individuals interactions processes tools working software comprehensive documentation customer collaboration contract negotiation responding to change following a plan" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Agile Manifesto Values</h2>
             </div>
             <div class="definition-face definition-back">
@@ -282,10 +280,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="selecting an approach predictive agile hybrid requirements uncertainty risk change complexity stakeholders" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="selecting an approach predictive agile hybrid requirements uncertainty risk change complexity stakeholders" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Selecting an Approach</h2>
             </div>
             <div class="definition-face definition-back">
@@ -299,10 +297,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="scrum framework agile sprint product owner scrum master development team backlog increment daily scrum review retrospective" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="scrum framework agile sprint product owner scrum master development team backlog increment daily scrum review retrospective" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Scrum Framework</h2>
             </div>
             <div class="definition-face definition-back">
@@ -316,10 +314,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="framework methodology kanban lean extreme programming xp prince2 methods agile predictive" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="framework methodology kanban lean extreme programming xp prince2 methods agile predictive" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Frameworks &amp; Methodologies</h2>
             </div>
             <div class="definition-face definition-back">
@@ -333,10 +331,10 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="hybrid approach predictive agile combination waterfall adaptive phases mixed methods" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="hybrid approach predictive agile combination waterfall adaptive phases mixed methods" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
-              <p class="definition-label">Approaches</p>
+              <p class="definition-label">Chapter 2</p>
               <h2>Hybrid Approach</h2>
             </div>
             <div class="definition-face definition-back">
