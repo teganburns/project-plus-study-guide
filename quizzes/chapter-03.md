@@ -17,15 +17,15 @@ permalink: /quizzes/chapter-03/
     <h2>Which is the best description of the Project Business Case?</h2>
 
     <ol class="quiz-options" type="A">
-      <li>A detailed financial summary of strategy alignment</li>
-      <li>Clarification of non-financial benefits to be gained</li>
-      <li>A list of stakeholder advantages</li>
       <li>A value proposition for a proposed project</li>
+      <li>The management plan including detailed needs analysis</li>
+      <li>A written description of what we are going to create in the project</li>
+      <li>The details of the goods or services we want to purchase</li>
     </ol>
 
     <details class="quiz-answer">
       <summary>Show answer</summary>
-      <p><strong>Answer: D.</strong> The Project Business Case is a value proposition for a proposed project and may include financial and non-financial benefits.</p>
+      <p><strong>Answer: A.</strong> The Project Business Case is a value proposition for a proposed project and may include financial and non-financial benefits.</p>
     </details>
   </article>
 
