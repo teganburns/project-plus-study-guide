@@ -145,4 +145,21 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: B.</strong> False. Hybrid approaches can combine elements of different frameworks when the project benefits from a mixed approach.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 8</p>
+    <h2>What is the "predictive" methodology often also known as?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Adaptive</li>
+      <li>Traditional</li>
+      <li>Agile</li>
+      <li>Waterfall</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: D.</strong> Predictive methodology is often also known as Waterfall.</p>
+    </details>
+  </article>
 </section>
