@@ -130,11 +130,101 @@
         background: var(--accent-soft);
       }
 
+      .definition-browser {
+        margin-top: 28px;
+      }
+
+      .definition-search-label {
+        display: block;
+        margin-bottom: 8px;
+        color: var(--muted);
+        font-size: 0.9rem;
+        font-weight: 750;
+      }
+
+      .definition-search {
+        width: 100%;
+        min-height: 48px;
+        padding: 12px 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--ink);
+        background: #ffffff;
+        font: inherit;
+      }
+
+      .definition-search:focus {
+        border-color: var(--accent);
+        outline: 3px solid var(--accent-soft);
+      }
+
+      .definition-layout {
+        display: grid;
+        grid-template-columns: 220px minmax(0, 1fr);
+        gap: 24px;
+        align-items: start;
+        margin-top: 22px;
+      }
+
+      .definition-sidebar {
+        position: sticky;
+        top: 18px;
+        padding: 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+
+      .definition-sidebar-title {
+        margin: 0 0 12px;
+        color: var(--muted);
+        font-size: 0.85rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .definition-filter-list {
+        display: grid;
+        gap: 8px;
+      }
+
+      .definition-filter {
+        width: 100%;
+        min-height: 42px;
+        padding: 10px 12px;
+        border: 1px solid transparent;
+        border-radius: 8px;
+        color: var(--muted);
+        background: transparent;
+        cursor: pointer;
+        font: inherit;
+        font-weight: 700;
+        text-align: left;
+      }
+
+      .definition-filter:hover,
+      .definition-filter.is-active {
+        border-color: var(--accent);
+        color: var(--accent);
+        background: var(--accent-soft);
+      }
+
+      .definition-results {
+        min-width: 0;
+      }
+
+      .definition-result-count {
+        margin: 0;
+        color: var(--muted);
+        font-size: 0.95rem;
+      }
+
       .definition-grid {
         display: grid;
         grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
         gap: 18px;
-        margin: 30px 0 42px;
+        margin: 14px 0 42px;
       }
 
       .definition-card {
@@ -143,6 +233,10 @@
         cursor: pointer;
         perspective: 1200px;
         outline: none;
+      }
+
+      .definition-card[hidden] {
+        display: none;
       }
 
       .definition-card:focus-visible .definition-card-inner {
@@ -225,6 +319,15 @@
       .definition-back ul {
         margin: 10px 0 16px;
         padding-left: 20px;
+      }
+
+      .definition-empty {
+        margin: 18px 0 42px;
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--muted);
+        background: var(--surface);
       }
 
       .quiz-list {
@@ -317,6 +420,31 @@
         }
       }
 
+      @media (max-width: 760px) {
+        .definition-layout {
+          display: block;
+        }
+
+        .definition-sidebar {
+          position: static;
+          margin-bottom: 18px;
+        }
+
+        .definition-filter-list {
+          display: flex;
+          gap: 8px;
+          overflow-x: auto;
+          padding-bottom: 2px;
+        }
+
+        .definition-filter {
+          width: auto;
+          flex: 0 0 auto;
+          text-align: center;
+          white-space: nowrap;
+        }
+      }
+
       @media (prefers-reduced-motion: reduce) {
         .definition-card-inner {
           transition: none;
@@ -348,10 +476,80 @@
     </footer>
 
     <script>
-      document.querySelectorAll(".definition-card").forEach((card) => {
+      const definitionCards = Array.from(document.querySelectorAll(".definition-card"));
+      const definitionFilters = Array.from(document.querySelectorAll("[data-definition-category]"));
+      const definitionSearch = document.querySelector("#definition-search");
+      const definitionResultCount = document.querySelector("#definition-result-count");
+      const definitionEmpty = document.querySelector("#definition-empty");
+      let activeDefinitionCategory = "all";
+
+      const categoryLabels = {
+        all: "all categories",
+        foundations: "Foundations",
+        lifecycle: "Lifecycle",
+        "programs-portfolios": "Programs & Portfolios",
+      };
+
+      const normalizeText = (value) => value.toLowerCase().trim();
+
+      const setCardFlipped = (card, isFlipped) => {
+        card.classList.toggle("is-flipped", isFlipped);
+        card.setAttribute("aria-pressed", String(isFlipped));
+      };
+
+      const updateDefinitionResults = () => {
+        if (!definitionCards.length) {
+          return;
+        }
+
+        const query = normalizeText(definitionSearch ? definitionSearch.value : "");
+        let visibleCount = 0;
+
+        definitionCards.forEach((card) => {
+          const categoryMatch = activeDefinitionCategory === "all" || card.dataset.category === activeDefinitionCategory;
+          const searchText = normalizeText(`${card.textContent} ${card.dataset.search || ""}`);
+          const searchMatch = !query || searchText.includes(query);
+          const isVisible = categoryMatch && searchMatch;
+
+          card.hidden = !isVisible;
+          if (!isVisible) {
+            setCardFlipped(card, false);
+          } else {
+            visibleCount += 1;
+          }
+        });
+
+        definitionFilters.forEach((button) => {
+          const isActive = button.dataset.definitionCategory === activeDefinitionCategory;
+          button.classList.toggle("is-active", isActive);
+          button.setAttribute("aria-pressed", String(isActive));
+        });
+
+        if (definitionResultCount) {
+          const categoryLabel = categoryLabels[activeDefinitionCategory] || "selected category";
+          const noun = visibleCount === 1 ? "definition" : "definitions";
+          definitionResultCount.textContent = `Showing ${visibleCount} ${noun} in ${categoryLabel}`;
+        }
+
+        if (definitionEmpty) {
+          definitionEmpty.hidden = visibleCount !== 0;
+        }
+      };
+
+      definitionFilters.forEach((button) => {
+        button.addEventListener("click", () => {
+          activeDefinitionCategory = button.dataset.definitionCategory || "all";
+          updateDefinitionResults();
+        });
+      });
+
+      if (definitionSearch) {
+        definitionSearch.addEventListener("input", updateDefinitionResults);
+      }
+
+      definitionCards.forEach((card) => {
         const toggleCard = () => {
-          const isFlipped = card.classList.toggle("is-flipped");
-          card.setAttribute("aria-pressed", String(isFlipped));
+          setCardFlipped(card, !card.classList.contains("is-flipped"));
         };
 
         card.addEventListener("click", toggleCard);
@@ -362,6 +560,8 @@
           }
         });
       });
+
+      updateDefinitionResults();
     </script>
   </body>
 </html>
