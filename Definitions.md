@@ -605,6 +605,199 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="build make procurement method made internally project team internal development create in house" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Build or Make</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Build or Make</h2>
+              <p>A procurement method where the solution or item is made internally by the project team.</p>
+              <p><strong>Exam cue:</strong> build or make means do it in-house.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="buy procurement method outsource purchase solution item external supplier vendor" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Buy</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Buy</h2>
+              <p>A procurement method where the organization outsources or purchases a solution or item.</p>
+              <p><strong>Exam cue:</strong> buy means get it from an external supplier.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="lease procurement method hire rent rather than buy monthly fee operational expenditure opex" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Lease</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Lease</h2>
+              <p>A procurement method where the organization hires or rents rather than buys.</p>
+              <p><strong>Exam cue:</strong> lease payments are often treated as operational expenditure.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="subscription pay as you go procurement cloud services pay for what you use ongoing operating expense opex" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Subscription / Pay-as-you-go</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Subscription / Pay-as-you-go</h2>
+              <p>A procurement method where the organization pays for what it uses, such as cloud services.</p>
+              <p><strong>Exam cue:</strong> pay-as-you-go is usually an ongoing operating cost.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="capex capital expenditure expenditures major investments depreciated over time asset purchase upfront cost" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>CapEx</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>CapEx</h2>
+              <p>Capital Expenditure: major investments that are depreciated over time.</p>
+              <ul>
+                <li>Often used for purchases that become assets.</li>
+                <li>Usually represents a larger upfront investment.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> CapEx is capital investment.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="opex operational expenditure operating expense ongoing expenses often tax deductible monthly lease subscription pay as you go" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>OpEx</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>OpEx</h2>
+              <p>Operational Expenditure: ongoing expenses related to operating the business or project.</p>
+              <ul>
+                <li>Often tax deductible.</li>
+                <li>Examples may include monthly lease, subscription, or pay-as-you-go costs.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> monthly leasing is usually OpEx.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="pre qualified vendors approved suppliers procurement shortlist vendor list supplier list" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Pre-qualified Vendors</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Pre-qualified Vendors</h2>
+              <p>A list of approved suppliers that have already met required criteria.</p>
+              <p><strong>Exam cue:</strong> pre-qualified vendors are already approved.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="pre determined clients partner organizations organisations already have agreements procurement clients agreement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Pre-determined Clients</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Pre-determined Clients</h2>
+              <p>Partner organizations that already have agreements in place with the organization.</p>
+              <p><strong>Exam cue:</strong> pre-determined clients are already known agreement partners.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="pre existing contracts procurement existing agreements speed up procurement process faster purchase" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Pre-existing Contracts</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Pre-existing Contracts</h2>
+              <p>Contracts or agreements that already exist and can speed up procurement processes.</p>
+              <p><strong>Exam cue:</strong> existing contracts can reduce procurement lead time.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="rfi request for information procurement narrow down possible suppliers vendors information market research" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>RFI</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>RFI</h2>
+              <p>Request for Information: used to gather information and narrow down the list of possible suppliers.</p>
+              <p><strong>Exam cue:</strong> RFI asks for information.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="rfp request for proposal procurement design approach timelines more than price supplier proposal" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>RFP</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>RFP</h2>
+              <p>Request for Proposal: used when the response should include more than price.</p>
+              <ul>
+                <li>May include design, approach, timelines, and other solution details.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> RFP asks for a fuller proposal.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="rfq request for quote procurement price specific items quotation cost" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>RFQ</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>RFQ</h2>
+              <p>Request for Quote: used when a price is needed for specific items.</p>
+              <p><strong>Exam cue:</strong> RFQ asks for a quote.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="rfb request for bid procurement price sealed bid fairness competitive bidding" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>RFB</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>RFB</h2>
+              <p>Request for Bid: used when a price is needed, sometimes with sealed bids for fairness.</p>
+              <p><strong>Exam cue:</strong> RFB asks for a bid.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>

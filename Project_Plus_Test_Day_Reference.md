@@ -53,3 +53,21 @@ Quick test phrasing: a project is temporary work done for a specific purpose to 
 - Opportunity cost: the value of other opportunities given up by choosing this project.
 
 Quick cue: high NPV, high IRR, high ROI, BCR greater than 1, short PBP.
+
+## Procurement Preferences and Artifacts
+
+- Build or make: made internally by the project team.
+- Buy: outsource or purchase a solution or item.
+- Lease: hire or rent instead of buying.
+- Subscription / pay-as-you-go: pay for what is used, such as cloud services.
+- CapEx: Capital Expenditures are major investments depreciated over time.
+- OpEx: Operational Expenditure is ongoing expense, often tax deductible.
+- Pre-qualified vendors: approved suppliers.
+- Pre-determined clients: partner organizations already under agreement.
+- Pre-existing contracts: can speed up procurement.
+- RFI: Request for Information. Used to narrow possible suppliers.
+- RFP: Request for Proposal. Used when price is not the only factor, such as design, approach, and timeline.
+- RFQ: Request for Quote. Used when you need a price for specific items.
+- RFB: Request for Bid. Used when you need a price, possibly sealed for fairness.
+
+Quick cue: RFI asks for information, RFP asks for a full proposal, RFQ asks for a quote, RFB asks for a bid.
