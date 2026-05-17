@@ -99,4 +99,22 @@ permalink: /quizzes/
       <p><strong>Answer: B, C, D, F, and H.</strong> The lifecycle phases are Discovery / Concept Preparation, Initiation, Planning, Execution, and Closing.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Question 6</p>
+    <h2>In which phase has the project formally been authorised to start?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Discovery / Concept Preparation</li>
+      <li><strong>Initiation</strong></li>
+      <li>Planning</li>
+      <li>Execution</li>
+      <li>Closing</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B.</strong> Initiation is where the project is formally authorized to start.</p>
+    </details>
+  </article>
 </section>
