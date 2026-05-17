@@ -128,4 +128,21 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer: A and C.</strong> The Project Business Case may include the business need and feasibility information. Budget/schedule baselines and stakeholder responsibility matrices are planning artifacts created later.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 7</p>
+    <h2>Which of the following are project selection methods? Choose 2.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Business needs analysis</li>
+      <li>RACI</li>
+      <li>Constrained optimisation</li>
+      <li>PBP comparison</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: C and D.</strong> Constrained optimisation is a mathematical project selection approach. PBP stands for Payback Period, which compares how long it will take to recover the project investment; shorter payback periods are usually preferred.</p>
+    </details>
+  </article>
 </section>
