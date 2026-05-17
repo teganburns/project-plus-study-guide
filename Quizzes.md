@@ -78,4 +78,25 @@ permalink: /quizzes/
       <p><strong>Answer: B and C.</strong> Operations are ongoing, while projects are temporary. A completed project may be transitioned or handed over to operations.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Question 5</p>
+    <h2>Which of the following are the CompTIA Project+ lifecycle phases? Choose 5.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Project Kick-off</li>
+      <li><strong>Discovery / Concept Preparation</strong></li>
+      <li><strong>Initiation</strong></li>
+      <li><strong>Planning</strong></li>
+      <li>Define a budget</li>
+      <li><strong>Execution</strong></li>
+      <li>Monitoring and Controlling</li>
+      <li><strong>Closing</strong></li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B, C, D, F, and H.</strong> The lifecycle phases are Discovery / Concept Preparation, Initiation, Planning, Execution, and Closing.</p>
+    </details>
+  </article>
 </section>
