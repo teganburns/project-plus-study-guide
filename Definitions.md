@@ -283,7 +283,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-2" data-search="selecting an approach predictive agile hybrid requirements uncertainty risk change complexity stakeholders" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="selecting an approach predictive agile hybrid requirements uncertainty risk change complexity stakeholders environmental factors company culture organizational structure industry stable unpredictable schedule budget constraints value early funding stakeholder expectations day to day involvement occasional updates" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 2</p>
@@ -291,10 +291,13 @@ permalink: /definitions/
             </div>
             <div class="definition-face definition-back">
               <h2>Selecting an Approach</h2>
-              <p>Choosing the project approach based on the work, uncertainty, requirements, stakeholders, and expected change.</p>
+              <p>Choosing the project approach based on the work, uncertainty, constraints, environment, and stakeholder expectations.</p>
               <ul>
                 <li>Stable requirements often fit predictive approaches.</li>
                 <li>Changing or uncertain requirements often fit adaptive approaches.</li>
+                <li>Company culture, organizational structure, and industry norms can influence the choice.</li>
+                <li>Schedule, budget, funding uncertainty, and the need to deliver value early may push toward adaptive methods.</li>
+                <li>Day-to-day stakeholder involvement fits Agile better; occasional formal updates may fit Waterfall better.</li>
               </ul>
             </div>
           </div>
