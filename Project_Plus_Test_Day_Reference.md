@@ -85,3 +85,19 @@ Quick cue: RFI asks for information, RFP asks for a full proposal, RFQ asks for 
 - T&M: Time and Materials. Time is billed at an agreed hourly or unit rate, plus materials at cost.
 
 Quick cue: fixed-price fixes the price, cost plus reimburses costs plus a fee, and T&M charges for labor time plus materials.
+
+## Vendor Documents and Agreements
+
+- SOW: Statement of Work. Details the goods or services to purchase so the vendor knows what to provide. Similar to TOR.
+- TOR: Terms of Reference. Describes the work requirement, including scope, timeline, and resources. Similar to SOW.
+- NDA: Non-Disclosure Agreement. Used when a vendor may see sensitive information or trade secrets that must not be shared.
+- Cease and desist letter: tells someone to stop doing something immediately and not do it again, such as violating a copyright or patent.
+- MOU: Memorandum of Understanding. Usually not legally enforceable, but useful for outlining terms when a legal agreement is not possible.
+- LOI: Letter of Intent. Describes what the buyer and vendor intend to do, usually before a contract. Not always legally binding, but can carry weight.
+- MSA: Master Service Agreement. Umbrella agreement that sets general terms between parties and can streamline future contracts.
+- SLA: Service Level Agreement. Defines expected service levels, such as response times.
+- Maintenance agreement: defines what the vendor must do to keep purchased goods or services up and running.
+- Warranty: vendor guarantee that a product will perform as expected for a specified period.
+- Purchase order: official buyer document committing to pay the vendor for specified products or services.
+
+Quick cue: SOW/TOR define work, NDA protects information, SLA defines service levels, MSA sets umbrella terms, PO commits the purchase.

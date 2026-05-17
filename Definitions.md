@@ -960,6 +960,197 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="statement of work sow vendor document procurement goods services purchase details vendor provide terms of reference tor" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Statement of Work</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Statement of Work</h2>
+              <p>A document describing the goods or services the buyer wants to purchase so the vendor knows what to provide.</p>
+              <ul>
+                <li>Often abbreviated as SOW.</li>
+                <li>Similar to Terms of Reference.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> SOW tells the vendor what work, goods, or services are being requested.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="terms of reference tor work requirement scope timeline resources statement of work sow procurement vendor document" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Terms of Reference</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Terms of Reference</h2>
+              <p>A document describing the work requirement, including scope, timeline, resources, and related expectations.</p>
+              <ul>
+                <li>Often abbreviated as TOR.</li>
+                <li>Similar to a Statement of Work.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> TOR describes the work requirements and boundaries.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="non disclosure agreement nda vendor sensitive information trade secrets confidential organization organisation procurement document" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Non-Disclosure Agreement</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Non-Disclosure Agreement</h2>
+              <p>An agreement used when a vendor may be exposed to sensitive information or trade secrets that must not be shared.</p>
+              <ul>
+                <li>Often abbreviated as NDA.</li>
+                <li>Protects confidential information outside the organization.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> NDA means do not disclose confidential information.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="cease and desist letter stop doing something immediately never do again copyright patent violation legal procurement document" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Cease and Desist Letter</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Cease and Desist Letter</h2>
+              <p>A letter used to tell someone to stop doing something immediately and not do it again.</p>
+              <ul>
+                <li>May be used for issues such as copyright or patent violations.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> cease means stop; desist means do not restart.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="memorandum of understanding mou not legally enforceable outline terms agreement parties procurement document" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Memorandum of Understanding</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Memorandum of Understanding</h2>
+              <p>A document used to outline terms or shared understanding between parties, often when a formal legal agreement is not possible.</p>
+              <ul>
+                <li>Often abbreviated as MOU.</li>
+                <li>Usually not legally enforceable.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> MOU documents understanding, but may not create a binding contract.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="letter of intent loi buyer vendor intention before contract not always legally binding carry weight procurement document" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Letter of Intent</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Letter of Intent</h2>
+              <p>A document describing what the buyer and vendor intend to do, usually before they enter into a contract.</p>
+              <ul>
+                <li>Often abbreviated as LOI.</li>
+                <li>Not always legally binding, but may still carry weight.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> LOI captures intent before the formal contract.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="master service agreement msa umbrella agreement general terms between parties streamline future contracts procurement vendor" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Master Service Agreement</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Master Service Agreement</h2>
+              <p>An umbrella agreement that sets general terms between parties and can streamline future contracts.</p>
+              <ul>
+                <li>Often abbreviated as MSA.</li>
+                <li>Useful when parties expect to work together more than once.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> MSA sets reusable terms for future work.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="service level agreement sla expected service level vendor response time support availability performance procurement agreement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Service Level Agreement</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Service Level Agreement</h2>
+              <p>An agreement that defines expected service levels from the vendor.</p>
+              <ul>
+                <li>Often abbreviated as SLA.</li>
+                <li>May define response times, availability, or support expectations.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> SLA defines the level of service expected.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="maintenance agreement vendor keep goods service purchased up and running support repair upkeep procurement agreement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Maintenance Agreement</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Maintenance Agreement</h2>
+              <p>An agreement describing what the vendor is expected to do to keep purchased goods or services up and running.</p>
+              <ul>
+                <li>May include support, repair, upkeep, or continuity expectations.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> maintenance agreements keep the purchased item or service operating.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="warranty vendor guarantee product perform as expected specified period procurement agreement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Warranty</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Warranty</h2>
+              <p>The vendor's guarantee that the product will perform as expected for a specified period of time.</p>
+              <p><strong>Exam cue:</strong> warranty is the vendor's performance guarantee.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="purchase order po official document buyer committing pay vendor specified products services procurement order" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Purchase Order</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Purchase Order</h2>
+              <p>The official buyer document committing to pay the vendor for specified products or services.</p>
+              <ul>
+                <li>Often abbreviated as PO.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> a PO commits the buyer to the purchase.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>
