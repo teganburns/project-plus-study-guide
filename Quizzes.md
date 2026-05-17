@@ -175,4 +175,21 @@ permalink: /quizzes/
       <p>Exam cue: Agile values the items before "over" more, while still recognizing value in the items after "over."</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 3</p>
+    <h2>What was the number 1 principle of Agile?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>To minimise the effort whilst maximising the output</li>
+      <li><strong>To satisfy the customer through continuous delivery of valuable software</strong></li>
+      <li>To build projects around motivated individuals, empowering them to get the job done</li>
+      <li>To improve with every iteration</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B.</strong> Agile's highest priority is customer satisfaction through early and continuous delivery of valuable software.</p>
+    </details>
+  </article>
 </section>
