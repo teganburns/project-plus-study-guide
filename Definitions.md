@@ -492,6 +492,25 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="project business case value proposition proposed project financial non financial benefits discovery concept planning justification why project should happen" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Project Business Case</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Project Business Case</h2>
+              <p>A value proposition for a proposed project that explains why the project should be considered.</p>
+              <ul>
+                <li>May include financial benefits, such as revenue, savings, or return on investment.</li>
+                <li>May include non-financial benefits, such as compliance, customer satisfaction, risk reduction, or strategic value.</li>
+                <li>Helps support early decision-making during discovery and concept planning.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> the business case explains the value of doing the project.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>
