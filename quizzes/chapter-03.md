@@ -89,4 +89,26 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer:</strong> Fixed Price Incentive Fee means a price is set for the work with a financial bonus if targets are met; Time and Materials is a hybrid of fixed-price and cost-reimbursable; Cost Plus Fixed Fee passes costs to the buyer with a set profit fee for the vendor.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 5</p>
+    <h2>Match up the document with its purpose.</h2>
+
+    <div class="quiz-word-bank" aria-label="Answer choices">
+      <span>Maintenance Agreement</span>
+      <span>Statement of Work</span>
+      <span>Master Service Agreement</span>
+    </div>
+
+    <ul class="quiz-options quiz-matching">
+      <li>Details what the vendor is expected to do to keep the goods or service up and running: ____________</li>
+      <li>Describes the services or goods that we want to procure: ____________</li>
+      <li>An umbrella agreement to set general terms between the buyer and vendor: ____________</li>
+    </ul>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer:</strong> Maintenance Agreement keeps the purchased goods or service up and running; Statement of Work describes the services or goods to procure; Master Service Agreement sets general terms between the buyer and vendor.</p>
+    </details>
+  </article>
 </section>
