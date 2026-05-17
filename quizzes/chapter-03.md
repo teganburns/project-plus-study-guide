@@ -163,4 +163,21 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer: C.</strong> Project C is the best choice here because it has the stronger IRR. IRR stands for Internal Rate of Return, and a higher IRR is generally preferred when comparing project benefits.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 9</p>
+    <h2>Which of the following would likely be considered as OpEx? Choose 2.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>A subscription to a cloud service</li>
+      <li>The purchase of new networking hardware</li>
+      <li>A new office building</li>
+      <li>The leasing of laptop computers</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: A and D.</strong> OpEx stands for Operational Expenditure: ongoing operating expenses such as subscriptions and leases. New hardware purchases and buildings are more likely to be CapEx because they are capital investments or assets.</p>
+    </details>
+  </article>
 </section>
