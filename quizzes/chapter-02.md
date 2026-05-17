@@ -179,4 +179,21 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: B.</strong> Agile product requirements are expected to evolve over time as the team learns, receives feedback, and adapts the product.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 10</p>
+    <h2>Which of the following are values of Agile? Choose 2.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>We value detailed documentation over following a plan</li>
+      <li>We value customer collaboration over contract negotiation</li>
+      <li>We value responding to change over working software</li>
+      <li>We value individuals and interactions over processes and tools</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B and D.</strong> Agile values customer collaboration over contract negotiation, and individuals and interactions over processes and tools.</p>
+    </details>
+  </article>
 </section>
