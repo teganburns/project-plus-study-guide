@@ -1,3 +1,9 @@
+---
+layout: default
+title: Test Day Reference
+permalink: /test-day-reference/
+---
+
 # CompTIA Project+ Test Day Reference
 
 ## Project Lifecycle Phases

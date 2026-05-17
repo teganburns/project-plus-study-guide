@@ -1,3 +1,9 @@
+---
+layout: default
+title: Definitions
+permalink: /definitions/
+---
+
 # Project+ Definitions
 
 ## Project
