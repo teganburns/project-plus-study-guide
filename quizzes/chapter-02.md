@@ -213,4 +213,21 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: B and C.</strong> Scrum identifies the Scrum Master and Product Owner roles. Developers are also part of the Scrum team, but Lead Developer and Project Manager are not Scrum roles in this question.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 12</p>
+    <h2>Which framework or methodology promotes removing anything that doesn't add value?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Kanban</li>
+      <li>Lean</li>
+      <li>PRINCE2</li>
+      <li>Extreme Programming</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B.</strong> Lean focuses on reducing waste and removing anything that does not add value.</p>
+    </details>
+  </article>
 </section>
