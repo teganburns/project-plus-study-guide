@@ -315,7 +315,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-2" data-search="scrum framework agile sprint product owner scrum master development team backlog increment daily scrum review retrospective" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="scrum framework agile sprint product owner scrum master developers development team product backlog sprint backlog product increment artifacts events sprint planning daily scrum review retrospective fixed length timebox" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 2</p>
@@ -323,10 +323,12 @@ permalink: /definitions/
             </div>
             <div class="definition-face definition-back">
               <h2>Scrum Framework</h2>
-              <p>An Agile framework that organizes work into short iterations called sprints.</p>
+              <p>An Agile framework that organizes work into fixed-length iterations called sprints.</p>
               <ul>
-                <li>Common roles include Product Owner, Scrum Master, and the development team.</li>
-                <li>Uses a backlog, sprint planning, daily coordination, reviews, and retrospectives.</li>
+                <li>Team members: Product Owner, Developers, and Scrum Master.</li>
+                <li>Artifacts: Product Backlog, Sprint Backlog, and Product Increment.</li>
+                <li>Events: Sprint Planning, Sprint, Daily Scrum, Sprint Review, and Sprint Retrospective.</li>
+                <li>A sprint should produce a working product increment.</li>
               </ul>
             </div>
           </div>

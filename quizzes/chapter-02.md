@@ -88,4 +88,22 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: B, D, and E.</strong> Waterfall is a better fit when major changes are not expected, the work is predictable or phase-driven, and stakeholders are comfortable with less frequent formal updates.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 5</p>
+    <h2>Which of the following is true regarding a Scrum sprint? Choose 3.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>The Product Owner decides how the sprint work is executed</li>
+      <li>It is recommended a sprint lasts at least 6 weeks</li>
+      <li>It should be of a fixed length</li>
+      <li>It should produce a working iteration of the product</li>
+      <li>It will start with a planning meeting and end with a retrospective</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: C, D, and E.</strong> A Scrum sprint is a fixed-length timebox that should produce a working increment of the product. It starts with sprint planning and closes with inspection and reflection, including the sprint retrospective.</p>
+    </details>
+  </article>
 </section>
