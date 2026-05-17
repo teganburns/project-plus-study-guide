@@ -106,4 +106,28 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: C, D, and E.</strong> A Scrum sprint is a fixed-length timebox that should produce a working increment of the product. It starts with sprint planning and closes with inspection and reflection, including the sprint retrospective.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 6</p>
+    <h2>Match up the methodology or framework with its description:</h2>
+
+    <div class="quiz-word-bank" aria-label="Answer choices">
+      <span>A framework for scaling Agile</span>
+      <span>Famous for its task board</span>
+      <span>A process model for project organization and control</span>
+      <span>Includes software engineering practices</span>
+    </div>
+
+    <ul class="quiz-options quiz-matching">
+      <li>SAFe: ____________</li>
+      <li>Kanban: ____________</li>
+      <li>PRINCE2: ____________</li>
+      <li>XP (Extreme Programming): ____________</li>
+    </ul>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer:</strong> SAFe is a framework for scaling Agile; Kanban is famous for its task board; PRINCE2 is a process model for project organization and control; XP includes software engineering practices.</p>
+    </details>
+  </article>
 </section>
