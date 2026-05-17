@@ -67,4 +67,26 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer: D.</strong> A monthly lease payment is usually treated as operational expenditure because it is an ongoing operating cost rather than an upfront capital purchase.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 4</p>
+    <h2>Match up the description with the contract type.</h2>
+
+    <div class="quiz-word-bank" aria-label="Answer choices">
+      <span>A price is set for the work, with a financial bonus if targets are met</span>
+      <span>A hybrid of fixed-price and cost-reimbursable</span>
+      <span>All costs are passed on to the buyer, with a set sum representing profit for the vendor</span>
+    </div>
+
+    <ul class="quiz-options quiz-matching">
+      <li>Fixed Price Incentive Fee: ____________</li>
+      <li>Time and Materials: ____________</li>
+      <li>Cost Plus Fixed Fee: ____________</li>
+    </ul>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer:</strong> Fixed Price Incentive Fee means a price is set for the work with a financial bonus if targets are met; Time and Materials is a hybrid of fixed-price and cost-reimbursable; Cost Plus Fixed Fee passes costs to the buyer with a set profit fee for the vendor.</p>
+    </details>
+  </article>
 </section>
