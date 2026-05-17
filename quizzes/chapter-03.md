@@ -28,4 +28,26 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer: D.</strong> The Project Business Case is a value proposition for a proposed project and may include financial and non-financial benefits.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 2</p>
+    <h2>Match up the description with the project selection method.</h2>
+
+    <div class="quiz-word-bank" aria-label="Answer choices">
+      <span>A method used for constrained optimization</span>
+      <span>Compares the benefits gained with costs incurred</span>
+      <span>Based on the assumption that money is worth more now than in the future</span>
+    </div>
+
+    <ul class="quiz-options quiz-matching">
+      <li>Linear programming: ____________</li>
+      <li>Benefit-Cost Ratio: ____________</li>
+      <li>Net Present Value: ____________</li>
+    </ul>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer:</strong> Linear programming is used for constrained optimization; Benefit-Cost Ratio compares benefits gained with costs incurred; Net Present Value is based on money being worth more now than in the future.</p>
+    </details>
+  </article>
 </section>

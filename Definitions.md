@@ -511,6 +511,60 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="linear programming project selection method constrained optimization optimisation constraints optimize resources discovery concept planning" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Linear Programming</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Linear Programming</h2>
+              <p>A project selection method used for constrained optimization.</p>
+              <ul>
+                <li>Helps choose the best result when limits or constraints apply.</li>
+                <li>Can be used when resources, budget, time, or other constraints must be considered.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> linear programming means constrained optimization.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="benefit cost ratio bcr project selection compares benefits gained costs incurred benefit-cost cost benefit value financial analysis" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Benefit-Cost Ratio</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Benefit-Cost Ratio</h2>
+              <p>A project selection method that compares the benefits gained with the costs incurred.</p>
+              <ul>
+                <li>Used to compare expected value against expected cost.</li>
+                <li>A higher ratio generally indicates a more favorable project option.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> Benefit-Cost Ratio compares benefits to costs.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="net present value npv project selection money worth more now than future time value of money present future cash flow" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Net Present Value</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Net Present Value</h2>
+              <p>A project selection method based on the assumption that money is worth more now than in the future.</p>
+              <ul>
+                <li>Uses the time value of money to evaluate future benefits or cash flows in today's terms.</li>
+                <li>Often abbreviated as NPV.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> NPV is about present value versus future value.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>
