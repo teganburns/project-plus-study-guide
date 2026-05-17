@@ -6,55 +6,96 @@ permalink: /definitions/
 
 # Project+ Definitions
 
-## Project
+<div class="definition-grid">
+  <article class="definition-card" role="button" tabindex="0" aria-pressed="false">
+    <div class="definition-card-inner">
+      <div class="definition-face definition-front">
+        <p class="definition-label">Definition</p>
+        <h2>Project</h2>
+      </div>
+      <div class="definition-face definition-back">
+        <h2>Project</h2>
+        <p>A temporary endeavor undertaken to create a unique product, service, or result.</p>
+        <ul>
+          <li>Has a beginning and an end.</li>
+          <li>Creates something unique.</li>
+          <li>Can stand alone or be part of a program or portfolio.</li>
+        </ul>
+        <p><strong>Exam trap:</strong> temporary does not always mean short term.</p>
+      </div>
+    </div>
+  </article>
 
-A project is a temporary endeavor undertaken to create a unique product, service, or result.
+  <article class="definition-card" role="button" tabindex="0" aria-pressed="false">
+    <div class="definition-card-inner">
+      <div class="definition-face definition-front">
+        <p class="definition-label">Definition</p>
+        <h2>Program</h2>
+      </div>
+      <div class="definition-face definition-back">
+        <h2>Program</h2>
+        <p>A group of related projects managed together.</p>
+        <ul>
+          <li>Projects are connected by shared outcomes, dependencies, resources, or benefits.</li>
+          <li>The relationship between the projects is what makes it a program.</li>
+        </ul>
+      </div>
+    </div>
+  </article>
 
-Key points:
+  <article class="definition-card" role="button" tabindex="0" aria-pressed="false">
+    <div class="definition-card-inner">
+      <div class="definition-face definition-front">
+        <p class="definition-label">Definition</p>
+        <h2>Program Management</h2>
+      </div>
+      <div class="definition-face definition-back">
+        <h2>Program Management</h2>
+        <p>Managing interdependencies between related projects.</p>
+        <ul>
+          <li>Coordinates related projects so the overall program delivers benefits.</li>
+          <li>Focuses on dependencies and combined outcomes.</li>
+        </ul>
+      </div>
+    </div>
+  </article>
 
-- Temporary means the project has a beginning and an end.
-- Unique means the output is not simply routine operational work.
-- A project may stand alone, or it may be part of a larger program or portfolio.
+  <article class="definition-card" role="button" tabindex="0" aria-pressed="false">
+    <div class="definition-card-inner">
+      <div class="definition-face definition-front">
+        <p class="definition-label">Definition</p>
+        <h2>Portfolio</h2>
+      </div>
+      <div class="definition-face definition-back">
+        <h2>Portfolio</h2>
+        <p>Projects, programs, and operations managed in a coordinated way to achieve organizational objectives.</p>
+        <ul>
+          <li>Items do not have to be directly related.</li>
+          <li>They are grouped because they support strategic goals.</li>
+        </ul>
+      </div>
+    </div>
+  </article>
 
-Test-day phrasing: a project is temporary work that creates something unique.
+  <article class="definition-card" role="button" tabindex="0" aria-pressed="false">
+    <div class="definition-card-inner">
+      <div class="definition-face definition-front">
+        <p class="definition-label">Definition</p>
+        <h2>Portfolio Management</h2>
+      </div>
+      <div class="definition-face definition-back">
+        <h2>Portfolio Management</h2>
+        <p>Selecting and overseeing the right projects and programs to align with the organization's strategic objectives.</p>
+        <ul>
+          <li>Chooses, prioritizes, balances, and governs work.</li>
+          <li>Focuses on strategic alignment and value.</li>
+        </ul>
+      </div>
+    </div>
+  </article>
+</div>
 
-Related exam trap:
-
-- Temporary does not always mean short term. A project can last a long time and still be temporary if it has a defined end.
-
-## Program
-
-A program is a group of related projects managed together.
-
-Key point:
-
-- The projects are connected in some meaningful way, such as shared outcomes, dependencies, resources, or benefits.
-
-## Program Management
-
-Program management focuses on managing interdependencies between related projects.
-
-Key point:
-
-- Program management coordinates related projects so the overall program delivers benefits that would be harder to achieve if each project were managed separately.
-
-## Portfolio
-
-A portfolio is a collection of projects, programs, and operations managed in a coordinated way to achieve organizational objectives.
-
-Key point:
-
-- The items in a portfolio do not have to be directly related. They are grouped because they help the organization meet strategic goals.
-
-## Portfolio Management
-
-Portfolio management is the selection and oversight of the right projects and programs to align with the organization's strategic objectives.
-
-Key point:
-
-- Portfolio management is about choosing, prioritizing, balancing, and governing work based on strategy and value.
-
-Quick comparison:
+## Quick Comparison
 
 - Program: related projects managed together.
 - Program management: coordinates dependencies between related projects.
