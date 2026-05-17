@@ -329,6 +329,25 @@ permalink: /definitions/
           </div>
         </article>
 
+        <article class="definition-card" data-category="chapter-2" data-search="kanban pull based board continuous flow workflow work in progress wip limits to do in progress code review release done agile not sprint timeboxed bottleneck" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>Kanban</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Kanban</h2>
+              <p>A pull-based workflow method that uses a Kanban board so work can flow continuously.</p>
+              <ul>
+                <li>Work moves through visible columns such as To Do, In Progress, Code Review, Release, and Done.</li>
+                <li>Work is pulled when capacity is available instead of being planned into fixed sprint cycles.</li>
+                <li>Work-in-progress limits help expose bottlenecks and keep flow manageable.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> Kanban is flow-based, not sprint-based.</p>
+            </div>
+          </div>
+        </article>
+
         <article class="definition-card" data-category="chapter-2" data-search="hybrid approach predictive agile combination waterfall adaptive phases mixed methods" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">

@@ -51,6 +51,13 @@ permalink: /study-guide/chapter-02/
     <li><strong>Sprint Retrospective:</strong> reflect on the sprint process and identify improvements.</li>
   </ul>
 
+  <h2>Kanban</h2>
+  <p>Kanban is an Agile-friendly workflow method that uses a pull-based approach and a Kanban board to keep work moving continuously. Unlike Scrum, Kanban is not built around time-boxed sprints. Work items move across columns such as To Do, In Progress, Code Review, Release, and Done as capacity becomes available.</p>
+
+  <p>Kanban boards often use work-in-progress limits for active columns. These limits help prevent too much work from piling up in one stage and make bottlenecks easier to spot. The goal is steady flow, visibility, and continuous improvement rather than planning work into fixed sprint cycles.</p>
+
+  <p class="study-note">Exam cue: Scrum is sprint-based and timeboxed. Kanban is pull-based and flow-based.</p>
+
   <h2>Selecting an Approach</h2>
   <p>The right approach depends on environmental factors, company culture, organizational structure, industry expectations, stability, uncertainty, schedule and budget constraints, funding availability, and stakeholder expectations. Day-to-day stakeholder involvement and uncertain requirements often point toward Agile. Stable requirements, predictable work, and occasional formal stakeholder updates often point toward Waterfall.</p>
 
