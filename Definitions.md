@@ -293,7 +293,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-2" data-search="scrum framework agile sprint product owner scrum master developers development team product backlog sprint backlog product increment artifacts events sprint planning daily scrum review retrospective fixed length timebox" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="scrum framework popular agile sprint time boxed timeboxed self organizing developers product owner scrum master development team product backlog sprint backlog product increment artifacts events sprint planning daily scrum review retrospective fixed length timebox" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 2</p>
@@ -301,9 +301,10 @@ permalink: /definitions/
             </div>
             <div class="definition-face definition-back">
               <h2>Scrum Framework</h2>
-              <p>An Agile framework that organizes work into fixed-length iterations called sprints.</p>
+              <p>A popular Agile framework that organizes work into fixed-length iterations called sprints.</p>
               <ul>
                 <li>Team members: Product Owner, Developers, and Scrum Master.</li>
+                <li>Developers are self-organizing and decide how sprint work is executed.</li>
                 <li>Artifacts: Product Backlog, Sprint Backlog, and Product Increment.</li>
                 <li>Events: Sprint Planning, Sprint, Daily Scrum, Sprint Review, and Sprint Retrospective.</li>
                 <li>A sprint should produce a working product increment.</li>
@@ -329,7 +330,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-2" data-search="kanban pull based board continuous flow workflow work in progress wip limits to do in progress code review release done agile not sprint timeboxed bottleneck" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="kanban lean agile pull based task board continuous flow workflow work in progress wip limits to do in progress code review release done agile not sprint timeboxed bottleneck" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 2</p>
@@ -337,7 +338,7 @@ permalink: /definitions/
             </div>
             <div class="definition-face definition-back">
               <h2>Kanban</h2>
-              <p>A pull-based workflow method that uses a Kanban board so work can flow continuously.</p>
+              <p>A Lean Agile workflow method that uses a pull-based approach and a Kanban task board.</p>
               <ul>
                 <li>Work moves through visible columns such as To Do, In Progress, Code Review, Release, and Done.</li>
                 <li>Work is pulled when capacity is available instead of being planned into fixed sprint cycles.</li>
@@ -363,6 +364,114 @@ permalink: /definitions/
                 <li>Focuses on maximizing value for the customer or organization.</li>
               </ul>
               <p><strong>Exam cue:</strong> Lean means reduce waste and keep value-adding work.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-2" data-search="xp extreme programming software engineering technical practices agile pair programming test driven development tdd continuous integration refactoring" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>XP</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>XP</h2>
+              <p>Extreme Programming, an Agile approach that includes specific software engineering technical practices.</p>
+              <ul>
+                <li>Focuses on improving software quality and responsiveness to change.</li>
+                <li>Practices may include pair programming, test-driven development, continuous integration, and refactoring.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> XP points to software engineering practices.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-2" data-search="safe scaled agile framework enterprise scale agile large organization portfolio program team practices" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>SAFe</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>SAFe</h2>
+              <p>Scaled Agile Framework, a framework for implementing Agile at enterprise scale.</p>
+              <ul>
+                <li>Used when Agile practices need to coordinate across many teams or a larger organization.</li>
+                <li>Provides structure for scaling Agile beyond a single team.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> SAFe means scaling Agile.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-2" data-search="prince2 projects in controlled environments process model project organization organisation control governance stages roles responsibilities" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>PRINCE2</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>PRINCE2</h2>
+              <p>Projects IN Controlled Environments, a process model for project organization and control.</p>
+              <ul>
+                <li>Emphasizes structured governance, defined roles, and controlled stages.</li>
+                <li>Often associated with process-driven project management.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> PRINCE2 is about project organization and control.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-2" data-search="sdlc software development life cycle plan design build test deploy phases lifecycle development variations waterfall agile" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>SDLC</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>SDLC</h2>
+              <p>Software Development Life Cycle, the phases used to create and deliver software.</p>
+              <ul>
+                <li>Common phases include plan, design, build, test, and deploy.</li>
+                <li>Different SDLC variations exist, including predictive and adaptive versions.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> SDLC is the software development lifecycle.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-2" data-search="devops development operations dev ops software development it operations collaboration automation delivery deployment" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>DevOps</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>DevOps</h2>
+              <p>Practices that combine software development and IT operations.</p>
+              <ul>
+                <li>Focuses on collaboration between development and operations teams.</li>
+                <li>Often supports automation, faster delivery, and more reliable deployment.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> DevOps combines Dev and Ops.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-2" data-search="devsecops development security operations dev sec ops integrated security secure software delivery shift left" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>DevSecOps</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>DevSecOps</h2>
+              <p>Software development and IT operations with security integrated into the process.</p>
+              <ul>
+                <li>Adds security practices into DevOps instead of treating security as a final separate step.</li>
+                <li>Encourages security responsibility throughout software delivery.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> DevSecOps adds integrated security to DevOps.</p>
             </div>
           </div>
         </article>

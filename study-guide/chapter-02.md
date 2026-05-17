@@ -65,6 +65,19 @@ permalink: /study-guide/chapter-02/
 
   <p class="study-note">Exam cue: Lean means maximize value by reducing waste.</p>
 
+  <h2>Methodology and Framework Quick Reference</h2>
+  <ul>
+    <li><strong>Scrum:</strong> a popular Agile framework using time-boxed sprints, self-organizing developers, and a Scrum Master.</li>
+    <li><strong>Kanban:</strong> a Lean Agile approach focused on workflow and known for its Kanban task board.</li>
+    <li><strong>Lean:</strong> derived from manufacturing and focused on removing anything that does not add value.</li>
+    <li><strong>XP:</strong> Extreme Programming; includes specific software engineering technical practices.</li>
+    <li><strong>SAFe:</strong> Scaled Agile Framework; best practices for implementing Agile at enterprise scale.</li>
+    <li><strong>PRINCE2:</strong> Projects IN Controlled Environments; a process model for project organization and control.</li>
+    <li><strong>SDLC:</strong> Software Development Life Cycle; common phases include plan, design, build, test, and deploy.</li>
+    <li><strong>DevOps:</strong> practices that combine software development and IT operations.</li>
+    <li><strong>DevSecOps:</strong> DevOps with security integrated into the software delivery process.</li>
+  </ul>
+
   <h2>Selecting an Approach</h2>
   <p>The right approach depends on environmental factors, company culture, organizational structure, industry expectations, stability, uncertainty, schedule and budget constraints, funding availability, and stakeholder expectations. Day-to-day stakeholder involvement and uncertain requirements often point toward Agile. Stable requirements, predictable work, and occasional formal stakeholder updates often point toward Waterfall.</p>
 
