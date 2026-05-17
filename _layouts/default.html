@@ -227,6 +227,62 @@
         padding-left: 20px;
       }
 
+      .quiz-list {
+        display: grid;
+        gap: 18px;
+        margin: 30px 0 42px;
+      }
+
+      .quiz-card {
+        padding: 24px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+        box-shadow: 0 10px 28px rgba(31, 41, 51, 0.08);
+      }
+
+      .quiz-card h2 {
+        margin: 0 0 18px;
+        padding: 0;
+        border: 0;
+        font-size: 1.4rem;
+      }
+
+      .quiz-meta {
+        margin: 0 0 10px;
+        color: var(--accent);
+        font-size: 0.82rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .quiz-options {
+        display: grid;
+        gap: 10px;
+        margin: 0 0 20px;
+        padding-left: 26px;
+      }
+
+      .quiz-options li {
+        padding-left: 6px;
+      }
+
+      .quiz-answer {
+        padding-top: 16px;
+        border-top: 1px solid var(--line);
+      }
+
+      .quiz-answer summary {
+        color: var(--accent);
+        cursor: pointer;
+        font-weight: 750;
+      }
+
+      .quiz-answer p {
+        margin-bottom: 0;
+      }
+
       code {
         padding: 2px 5px;
         border-radius: 4px;
@@ -274,6 +330,7 @@
         <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <nav aria-label="Main navigation">
           <a href="{{ '/definitions/' | relative_url }}">Definitions</a>
+          <a href="{{ '/quizzes/' | relative_url }}">Quizzes</a>
           <a href="{{ '/test-day-reference/' | relative_url }}">Test Day Reference</a>
           <a href="https://github.com/teganburns/project-plus-study-guide">GitHub</a>
         </nav>

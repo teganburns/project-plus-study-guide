@@ -12,6 +12,7 @@ This repo is being built from screenshots, practice questions, and notes gathere
 
 - [Project+ Test Day Reference](Project_Plus_Test_Day_Reference.md)
 - [Definitions](Definitions.md)
+- [Quizzes](Quizzes.md)
 
 ## Note
 
