@@ -497,10 +497,3 @@ permalink: /definitions/
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>
   </section>
 </div>
-
-## Quick Comparison
-
-- Program: related projects managed together.
-- Program management: coordinates dependencies between related projects.
-- Portfolio: projects, programs, and operations grouped around organizational objectives.
-- Portfolio management: selects and prioritizes the right work for strategic alignment.
