@@ -208,7 +208,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-2" data-search="waterfall predictive sequential phased requirements design build test deploy traditional approach" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="waterfall predictive sequential phased requirements design build test deploy traditional approach stable requirements low change construction formal status updates periodic reporting" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 2</p>
@@ -220,6 +220,7 @@ permalink: /definitions/
               <ul>
                 <li>Best when requirements are stable and well understood.</li>
                 <li>Changes are usually more controlled and formal.</li>
+                <li>Fits predictable work with less frequent stakeholder updates.</li>
               </ul>
               <p><strong>Exam cue:</strong> think planned upfront and phase-by-phase.</p>
             </div>
