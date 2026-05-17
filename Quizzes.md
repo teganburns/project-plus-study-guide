@@ -61,4 +61,21 @@ permalink: /quizzes/
       <p><strong>Answer: B, D, and E.</strong> A project has a start and finish, is unique, and has a reason or purpose.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Question 4</p>
+    <h2>What do we mean when we say a project is distinct from operations? Choose 2.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Project is the term used in traditional frameworks, whereas modern alternatives will use the term operations instead</li>
+      <li><strong>Operations could continue indefinitely and are therefore not constrained by time</strong></li>
+      <li><strong>When a project is successfully completed, it will be handed over to operations</strong></li>
+      <li>Unlike a project, operations will never be unique, nor have a defined purpose</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B and C.</strong> Operations are ongoing, while projects are temporary. A completed project may be transitioned or handed over to operations.</p>
+    </details>
+  </article>
 </section>
