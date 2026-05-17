@@ -228,7 +228,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="approaches" data-search="agile overview adaptive iterative incremental change customer feedback value collaboration" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="approaches" data-search="agile overview adaptive iterative incremental software development change customer feedback value collaboration" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Approaches</p>
@@ -236,7 +236,7 @@ permalink: /definitions/
             </div>
             <div class="definition-face definition-back">
               <h2>Agile</h2>
-              <p>An adaptive approach that delivers value through iterative and incremental work.</p>
+              <p>An adaptive approach based on iterative and incremental software development.</p>
               <ul>
                 <li>Works well when requirements may change.</li>
                 <li>Emphasizes customer feedback, collaboration, and frequent delivery.</li>
