@@ -117,4 +117,21 @@ permalink: /quizzes/
       <p><strong>Answer: B.</strong> Initiation is where the project is formally authorized to start.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Question 7</p>
+    <h2>Which of the following is true regarding projects, programs, and portfolios?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Projects will only be part of a portfolio if the organisation has a PMO</li>
+      <li><strong>Projects can stand alone or be part of a program or portfolio</strong></li>
+      <li>Projects are always part of either a program or portfolio</li>
+      <li>Small projects will be part of a program, while larger more complex projects will be part of a portfolio</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B.</strong> Projects can stand alone, or they can be grouped within a program or portfolio.</p>
+    </details>
+  </article>
 </section>
