@@ -20,6 +20,7 @@ permalink: /definitions/
         <button class="definition-filter" type="button" data-definition-category="foundations" aria-pressed="false">Foundations</button>
         <button class="definition-filter" type="button" data-definition-category="lifecycle" aria-pressed="false">Lifecycle</button>
         <button class="definition-filter" type="button" data-definition-category="programs-portfolios" aria-pressed="false">Programs &amp; Portfolios</button>
+        <button class="definition-filter" type="button" data-definition-category="approaches" aria-pressed="false">Approaches</button>
       </div>
     </aside>
 
@@ -204,6 +205,127 @@ permalink: /definitions/
               <ul>
                 <li>Chooses, prioritizes, balances, and governs work.</li>
                 <li>Focuses on strategic alignment and value.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="waterfall predictive sequential phased requirements design build test deploy traditional approach" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Waterfall</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Waterfall</h2>
+              <p>A predictive, sequential approach where work moves through defined phases.</p>
+              <ul>
+                <li>Best when requirements are stable and well understood.</li>
+                <li>Changes are usually more controlled and formal.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> think planned upfront and phase-by-phase.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="agile overview adaptive iterative incremental change customer feedback value collaboration" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Agile</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Agile</h2>
+              <p>An adaptive approach that delivers value through iterative and incremental work.</p>
+              <ul>
+                <li>Works well when requirements may change.</li>
+                <li>Emphasizes customer feedback, collaboration, and frequent delivery.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="12 principles agile manifesto customer satisfaction welcome change frequent delivery collaboration motivated teams simplicity reflection" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>12 Principles of Agile</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>12 Principles of Agile</h2>
+              <p>Guiding principles behind Agile delivery and team behavior.</p>
+              <ul>
+                <li>Prioritize customer satisfaction and useful delivery.</li>
+                <li>Welcome change, collaborate often, and improve continuously.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> Agile favors adaptability, feedback, and working results.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="selecting an approach predictive agile hybrid requirements uncertainty risk change complexity stakeholders" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Selecting an Approach</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Selecting an Approach</h2>
+              <p>Choosing the project approach based on the work, uncertainty, requirements, stakeholders, and expected change.</p>
+              <ul>
+                <li>Stable requirements often fit predictive approaches.</li>
+                <li>Changing or uncertain requirements often fit adaptive approaches.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="scrum framework agile sprint product owner scrum master development team backlog increment daily scrum review retrospective" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Scrum Framework</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Scrum Framework</h2>
+              <p>An Agile framework that organizes work into short iterations called sprints.</p>
+              <ul>
+                <li>Common roles include Product Owner, Scrum Master, and the development team.</li>
+                <li>Uses a backlog, sprint planning, daily coordination, reviews, and retrospectives.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="framework methodology kanban lean extreme programming xp prince2 methods agile predictive" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Frameworks &amp; Methodologies</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Frameworks &amp; Methodologies</h2>
+              <p>Structured ways of organizing and managing project work.</p>
+              <ul>
+                <li>Examples may include Scrum, Kanban, Lean, XP, or predictive methods.</li>
+                <li>Each approach has different strengths depending on the project context.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="approaches" data-search="hybrid approach predictive agile combination waterfall adaptive phases mixed methods" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Hybrid Approach</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Hybrid Approach</h2>
+              <p>An approach that combines predictive and adaptive practices.</p>
+              <ul>
+                <li>Useful when some work is stable and some work is uncertain.</li>
+                <li>May plan certain phases upfront while using Agile methods for evolving work.</li>
               </ul>
             </div>
           </div>

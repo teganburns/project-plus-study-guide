@@ -8,6 +8,8 @@ permalink: /quizzes/
 
 <p class="lede">Practice questions collected while studying. Use these for quick recall, then reveal the answer when you are ready.</p>
 
+## Project Foundations & Lifecycle
+
 <section class="quiz-list" aria-label="Project+ practice questions">
   <article class="quiz-card">
     <p class="quiz-meta">Question 1</p>
@@ -133,5 +135,15 @@ permalink: /quizzes/
       <summary>Show answer</summary>
       <p><strong>Answer: B.</strong> Projects can stand alone, or they can be grouped within a program or portfolio.</p>
     </details>
+  </article>
+</section>
+
+## Project Management Approaches
+
+<section class="quiz-list" aria-label="Project management approaches practice questions">
+  <article class="quiz-card">
+    <p class="quiz-meta">Coming next</p>
+    <h2>Waterfall, Agile, Scrum, hybrid approaches, and other frameworks</h2>
+    <p>This section is reserved for the new approach-focused quiz set.</p>
   </article>
 </section>
