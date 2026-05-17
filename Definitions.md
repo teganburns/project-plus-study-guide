@@ -530,7 +530,26 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-3" data-search="benefit cost ratio bcr project selection compares benefits gained costs incurred benefit-cost cost benefit value financial analysis" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-3" data-search="internal rate of return irr project selection investment high low rate return percentage bigger better financial analysis" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Internal Rate of Return</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Internal Rate of Return</h2>
+              <p>A project selection measure that considers whether an investment has a high or low rate of return.</p>
+              <ul>
+                <li>Often abbreviated as IRR.</li>
+                <li>Shown as a percentage rate of return.</li>
+                <li>A higher IRR is generally better.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> for IRR, bigger is better.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="benefit cost ratio bcr project selection compares benefits gained costs incurred benefit-cost cost benefit value financial analysis first number benefit bigger than cost greater than one" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 3</p>
@@ -541,9 +560,11 @@ permalink: /definitions/
               <p>A project selection method that compares the benefits gained with the costs incurred.</p>
               <ul>
                 <li>Used to compare expected value against expected cost.</li>
+                <li>Answers how much benefit comes back for each dollar invested.</li>
+                <li>The benefit should be larger than the cost, so the ratio should be greater than 1.</li>
                 <li>A higher ratio generally indicates a more favorable project option.</li>
               </ul>
-              <p><strong>Exam cue:</strong> Benefit-Cost Ratio compares benefits to costs.</p>
+              <p><strong>Exam cue:</strong> in BCR, the first number is the benefit and should be bigger than the cost.</p>
             </div>
           </div>
         </article>
@@ -562,6 +583,25 @@ permalink: /definitions/
                 <li>Often abbreviated as NPV.</li>
               </ul>
               <p><strong>Exam cue:</strong> NPV is about present value versus future value.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="payback period pbp project selection how long pay back invested investment recover cost shorter better" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Payback Period</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Payback Period</h2>
+              <p>A project selection measure showing how long it will take to pay back what was invested in the project.</p>
+              <ul>
+                <li>Often abbreviated as PBP.</li>
+                <li>Measures the time needed to recover the initial investment.</li>
+                <li>A shorter payback period is generally better.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> Payback Period asks how long until the investment is recovered.</p>
             </div>
           </div>
         </article>

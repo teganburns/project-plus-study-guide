@@ -20,9 +20,11 @@ permalink: /study-guide/chapter-03/
 
   <ul>
     <li><strong>Linear programming:</strong> a method used for constrained optimization.</li>
-    <li><strong>Benefit-Cost Ratio:</strong> compares the benefits gained with the costs incurred.</li>
+    <li><strong>Internal Rate of Return:</strong> shows whether an investment has a high or low rate of return. Bigger is better.</li>
+    <li><strong>Benefit-Cost Ratio:</strong> compares the benefits gained with the costs incurred. It answers how much money comes back for each dollar invested.</li>
     <li><strong>Net Present Value:</strong> based on the assumption that money is worth more now than in the future.</li>
+    <li><strong>Payback Period:</strong> shows how long it will take to pay back what was invested in the project.</li>
   </ul>
 
-  <p class="study-note">Exam cue: selection methods help decide which proposed projects are worth pursuing.</p>
+  <p class="study-note">Exam cue: higher IRR is better, BCR should be greater than 1, and shorter payback is usually better.</p>
 </section>
