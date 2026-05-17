@@ -111,4 +111,21 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer:</strong> Maintenance Agreement keeps the purchased goods or service up and running; Statement of Work describes the services or goods to procure; Master Service Agreement sets general terms between the buyer and vendor.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 6</p>
+    <h2>Which of the following might be included in the Project Business Case? Choose 2.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Business needs</li>
+      <li>Baselines for budget and schedule</li>
+      <li>Feasibility study</li>
+      <li>The stakeholder responsibility matrix</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: A and C.</strong> The Project Business Case may include the business need and feasibility information. Budget/schedule baselines and stakeholder responsibility matrices are planning artifacts created later.</p>
+    </details>
+  </article>
 </section>
