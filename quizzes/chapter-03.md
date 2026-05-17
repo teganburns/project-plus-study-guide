@@ -180,4 +180,73 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer: A and D.</strong> OpEx stands for Operational Expenditure: ongoing operating expenses such as subscriptions and leases. New hardware purchases and buildings are more likely to be CapEx because they are capital investments or assets.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 10</p>
+    <h2>Which document might we use prior to sending vendors an RFP?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>PO</li>
+      <li>RFB</li>
+      <li>SLA</li>
+      <li>RFI</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: D.</strong> RFI stands for Request for Information. It is used before an RFP when the buyer wants to gather information and narrow down possible vendors.</p>
+      <ul>
+        <li><strong>PO:</strong> Purchase Order. The official buyer document committing to pay the vendor for specified products or services.</li>
+        <li><strong>RFB:</strong> Request for Bid. Used when a buyer needs a price, possibly through sealed bids for fairness.</li>
+        <li><strong>SLA:</strong> Service Level Agreement. Defines expected service levels, such as response times, availability, or support expectations.</li>
+        <li><strong>RFI:</strong> Request for Information. Used to gather supplier information before moving into a proposal request.</li>
+      </ul>
+    </details>
+  </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 11</p>
+    <h2>What type of vendor contract do we have if the buyer pays all the costs, plus an additional set amount as vendor profit?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>T&amp;M</li>
+      <li>Cost Plus</li>
+      <li>Fixed Price Plus Costs (FFPC)</li>
+      <li>Cost Plus Fixed Fee (CPFF)</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: D.</strong> Cost Plus Fixed Fee means the buyer pays the allowable costs, plus a fixed fee that represents the vendor's profit.</p>
+      <ul>
+        <li><strong>T&amp;M:</strong> Time and Materials. Time is billed at an agreed hourly or unit rate, and materials are billed at cost.</li>
+        <li><strong>Cost Plus:</strong> A broad family of contracts where the buyer pays costs plus some type of fee.</li>
+        <li><strong>Fixed Price Plus Costs (FFPC):</strong> Not one of the standard contract types in this study set. Fixed-price contracts set the price up front instead of passing all costs through to the buyer.</li>
+        <li><strong>Cost Plus Fixed Fee (CPFF):</strong> The buyer pays costs plus a fixed profit fee, which matches this scenario.</li>
+      </ul>
+    </details>
+  </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 12</p>
+    <h2>Which document might we use if we wanted to ensure sensitive information was not shared outside of our organisation?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>C&amp;D Letter</li>
+      <li>LOI</li>
+      <li>NDA</li>
+      <li>MOU</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: C.</strong> NDA stands for Non-Disclosure Agreement. It is used to protect sensitive information, confidential information, or trade secrets from being shared outside the organisation.</p>
+      <ul>
+        <li><strong>C&amp;D Letter:</strong> Cease and Desist Letter. Tells someone to stop doing something immediately and not do it again, such as violating a copyright or patent.</li>
+        <li><strong>LOI:</strong> Letter of Intent. Describes what the buyer and vendor intend to do, usually before entering into a contract.</li>
+        <li><strong>NDA:</strong> Non-Disclosure Agreement. Protects sensitive or confidential information from being disclosed.</li>
+        <li><strong>MOU:</strong> Memorandum of Understanding. Outlines terms or shared understanding between parties, and is usually not legally enforceable.</li>
+      </ul>
+    </details>
+  </article>
 </section>

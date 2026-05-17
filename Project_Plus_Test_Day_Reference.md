@@ -41,6 +41,15 @@ Exam traps:
 
 Quick test phrasing: a project is temporary work done for a specific purpose to create something unique.
 
+## Project Initiation
+
+- Project charter: sponsor-issued document that authorizes the project to begin. Not a contract.
+- Stakeholder register: identifies stakeholders and captures details such as role, interest, influence, and communication needs.
+- RAM: Responsibility Assignment Matrix. Maps project work or deliverables to roles/people.
+- RACI: Responsible, Accountable, Consulted, Informed.
+
+Quick cue: R does the work, A approves/signs off, C gives input, I stays informed. RACI should have only one Accountable person per item, and that person can also be Responsible.
+
 ## Project Selection Methods
 
 - Linear and nonlinear programming: mathematical modeling for constrained optimization.

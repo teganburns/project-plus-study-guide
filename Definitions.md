@@ -1151,6 +1151,85 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-4" data-search="project charter initiation sponsor formally authorizes authorises existence project not contract internal authorization approval start project" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 4</p>
+              <h2>Project Charter</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Project Charter</h2>
+              <p>The document issued by the project sponsor that formally authorises the existence of a project.</p>
+              <ul>
+                <li>It gives the project official approval to begin.</li>
+                <li>It identifies the project at a high level and connects it to sponsor authorization.</li>
+                <li>It is not a contract. A contract is a legal agreement between parties, while a charter is an internal project authorization document.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> the charter authorises the project; it does not purchase goods, hire a vendor, or create a buyer-seller agreement.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-4" data-search="raci responsibility assignment matrix ram responsible accountable consulted informed roles ownership one accountable can also be responsible stakeholder resource planning" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 4</p>
+              <h2>RACI</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>RACI</h2>
+              <p>A type of Responsibility Assignment Matrix used to clarify roles for project work or deliverables.</p>
+              <ul>
+                <li><strong>R = Responsible:</strong> does the work.</li>
+                <li><strong>A = Accountable:</strong> approves or signs off the work.</li>
+                <li><strong>C = Consulted:</strong> provides input or information.</li>
+                <li><strong>I = Informed:</strong> needs to be kept in the loop.</li>
+                <li>Each item should have only one Accountable person.</li>
+                <li>The Accountable person can also be the Responsible person for the same item.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> RACI is a RAM; remember one Accountable per item.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-4" data-search="agile product vision short high level statement business purpose product not feature list initiation direction purpose" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 4</p>
+              <h2>Product Vision</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Product Vision</h2>
+              <p>A short, high-level statement outlining the business purpose of a product.</p>
+              <ul>
+                <li>Commonly used in Agile settings to give the team direction.</li>
+                <li>Explains why the product should exist and what value it should create.</li>
+                <li>It is not a list of features.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> product vision equals business purpose, not feature inventory.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-4" data-search="agile product roadmap general time frames major themes product experience strategic planning tool flexible updated not fixed schedule features" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 4</p>
+              <h2>Product Roadmap</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Product Roadmap</h2>
+              <p>A strategic planning tool that provides general time frames for major themes of the product experience.</p>
+              <ul>
+                <li>Shows broad direction over time.</li>
+                <li>Helps align expectations without locking every detail up front.</li>
+                <li>In Agile, expect it to be updated as the team learns more.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> roadmap means broad themes and timing, not a fixed detailed schedule.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>
