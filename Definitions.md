@@ -18,7 +18,7 @@ permalink: /definitions/
       <div class="definition-filter-list">
         <button class="definition-filter is-active" type="button" data-definition-category="all" aria-pressed="true">All</button>
         <button class="definition-filter" type="button" data-definition-category="chapter-1" aria-pressed="false">Chapter 1: Foundations &amp; Lifecycle</button>
-        <button class="definition-filter" type="button" data-definition-category="chapter-2" aria-pressed="false">Chapter 2: Approaches</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-2" aria-pressed="false">Chapter 2: Comparing PM Approaches</button>
       </div>
     </aside>
 
@@ -243,7 +243,7 @@ permalink: /definitions/
           </div>
         </article>
 
-        <article class="definition-card" data-category="chapter-2" data-search="12 principles agile manifesto customer satisfaction welcome change frequent delivery collaboration motivated teams simplicity reflection" role="button" tabindex="0" aria-pressed="false">
+        <article class="definition-card" data-category="chapter-2" data-search="12 principles agile manifesto customer satisfaction welcome change frequent delivery collaboration motivated teams face to face working software progress sustainable pace technical excellence simplicity self organizing teams reflection" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
               <p class="definition-label">Chapter 2</p>
@@ -251,12 +251,14 @@ permalink: /definitions/
             </div>
             <div class="definition-face definition-back">
               <h2>12 Principles of Agile</h2>
-              <p>Guiding principles behind Agile delivery and team behavior.</p>
+              <p>Guiding ideas behind Agile delivery, collaboration, and continuous improvement.</p>
               <ul>
-                <li>Prioritize customer satisfaction and useful delivery.</li>
-                <li>Welcome change, collaborate often, and improve continuously.</li>
+                <li>Deliver valuable working software early and often.</li>
+                <li>Welcome change and use feedback to improve outcomes.</li>
+                <li>Keep business and technical people working closely together.</li>
+                <li>Favor face-to-face communication, sustainable pace, technical excellence, simplicity, self-organizing teams, and regular reflection.</li>
               </ul>
-              <p><strong>Exam cue:</strong> Agile favors adaptability, feedback, and working results.</p>
+              <p><strong>Exam cue:</strong> Agile favors adaptability, frequent delivery, collaboration, and continuous improvement.</p>
             </div>
           </div>
         </article>

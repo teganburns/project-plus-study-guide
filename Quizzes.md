@@ -138,9 +138,9 @@ permalink: /quizzes/
   </article>
 </section>
 
-## Chapter 2: Project Management Approaches
+## Chapter 2: Comparing Project Management Approaches
 
-<section class="quiz-list" aria-label="Chapter 2 Project Management Approaches practice questions">
+<section class="quiz-list" aria-label="Chapter 2 Comparing Project Management Approaches practice questions">
   <article class="quiz-card">
     <p class="quiz-meta">Chapter 2 Question 1</p>
     <h2>The Waterfall project management approach might also be known as what?</h2>
