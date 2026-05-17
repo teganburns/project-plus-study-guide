@@ -798,6 +798,168 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="fixed price contracts vendor contract type procurement price fixed outset vendor seller risk scope changes firm fixed price incentive fee economic price adjustments" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Fixed-price Contracts</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Fixed-price Contracts</h2>
+              <p>Vendor contracts where the price is set up front for the agreed work.</p>
+              <ul>
+                <li>The vendor carries more cost risk because the price is fixed.</li>
+                <li>The price may change if the project scope changes.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> fixed-price means the buyer knows the price early.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="ffp firm fixed price fixed price contract price fixed outset will not change unless scope changes vendor contract" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Firm Fixed Price</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Firm Fixed Price</h2>
+              <p>A fixed-price contract where the price is fixed at the outset and will not change unless the scope changes.</p>
+              <ul>
+                <li>Often abbreviated as FFP.</li>
+                <li>Best when the work is clearly defined.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> FFP is the most straightforward fixed-price option.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="fpif fixed price incentive fee fixed price plus bonus target met vendor contract procurement incentive" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Fixed Price Incentive Fee</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Fixed Price Incentive Fee</h2>
+              <p>A fixed-price contract that adds an incentive or bonus if an agreed target is met.</p>
+              <ul>
+                <li>Often abbreviated as FPIF.</li>
+                <li>Used when the buyer wants to reward better cost, schedule, or performance results.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> FPIF equals fixed price plus target-based bonus.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="fpepa fixed price with economic price adjustments contract economic price adjustment currency exchange rate oil cost changes procurement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Fixed Price with Economic Price Adjustments</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Fixed Price with Economic Price Adjustments</h2>
+              <p>A fixed-price contract that allows price adjustments for defined economic changes.</p>
+              <ul>
+                <li>Often abbreviated as FPEPA.</li>
+                <li>Adjustments may account for things like currency exchange rates or oil costs.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> FPEPA is fixed price with an economic adjustment clause.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="cost plus contracts vendor contract type procurement buyer pays costs plus fee buyer risk cost reimbursable" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Cost Plus Contracts</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Cost Plus Contracts</h2>
+              <p>Vendor contracts where the buyer pays the vendor's costs plus an additional fee.</p>
+              <ul>
+                <li>The buyer carries more cost risk because actual costs are reimbursed.</li>
+                <li>Useful when work is less certain or hard to estimate up front.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> cost plus means costs paid by the buyer, plus a fee.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="cpff cost plus fixed fee contract costs paid by buyer fixed fee completion vendor procurement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Cost Plus Fixed Fee</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Cost Plus Fixed Fee</h2>
+              <p>A cost plus contract where the buyer pays the costs, then a fixed fee is paid on completion.</p>
+              <ul>
+                <li>Often abbreviated as CPFF.</li>
+                <li>The fee amount is fixed even though costs may vary.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> CPFF equals costs plus a fixed fee.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="cpif cost plus incentive fee contract costs paid by buyer plus bonus target met vendor procurement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Cost Plus Incentive Fee</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Cost Plus Incentive Fee</h2>
+              <p>A cost plus contract where the buyer pays the costs plus a bonus if an agreed target is met.</p>
+              <ul>
+                <li>Often abbreviated as CPIF.</li>
+                <li>The incentive encourages better performance against a target.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> CPIF equals costs plus target-based bonus.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="cpaf cost plus award fee contract costs paid by buyer performance based bonus buyer discretion vendor procurement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Cost Plus Award Fee</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Cost Plus Award Fee</h2>
+              <p>A cost plus contract where the buyer pays the costs plus a performance-based award fee.</p>
+              <ul>
+                <li>Often abbreviated as CPAF.</li>
+                <li>The award fee is generally at the buyer's discretion.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> CPAF has a discretionary performance award.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-3" data-search="time and materials contract t and m tm vendor contract time billed hourly unit price materials at cost procurement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 3</p>
+              <h2>Time and Materials Contracts</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Time and Materials Contracts</h2>
+              <p>Vendor contracts where time is billed at an agreed hourly or unit rate, and materials are billed at cost.</p>
+              <ul>
+                <li>Often abbreviated as T&amp;M.</li>
+                <li>Useful when the amount of work is uncertain but rates can be agreed.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> T&amp;M means labor time plus materials.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>

@@ -71,3 +71,17 @@ Quick cue: high NPV, high IRR, high ROI, BCR greater than 1, short PBP.
 - RFB: Request for Bid. Used when you need a price, possibly sealed for fairness.
 
 Quick cue: RFI asks for information, RFP asks for a full proposal, RFQ asks for a quote, RFB asks for a bid.
+
+## Vendor Contract Types
+
+- Fixed-price contracts: price is set up front, so the vendor carries more cost risk.
+- FFP: Firm Fixed Price. Price is fixed at the outset and does not change unless scope changes.
+- FPIF: Fixed Price Incentive Fee. Fixed price plus a bonus if the target is met.
+- FPEPA: Fixed Price with Economic Price Adjustments. Fixed price with allowed adjustments for economic changes, such as currency exchange rates or oil costs.
+- Cost plus contracts: buyer pays costs plus a fee, so the buyer carries more cost risk.
+- CPFF: Cost Plus Fixed Fee. Costs are paid by the buyer, then a fixed fee is paid on completion.
+- CPIF: Cost Plus Incentive Fee. Costs are paid by the buyer, plus a bonus if the target is met.
+- CPAF: Cost Plus Award Fee. Costs are paid by the buyer, plus a performance-based bonus at the buyer's discretion.
+- T&M: Time and Materials. Time is billed at an agreed hourly or unit rate, plus materials at cost.
+
+Quick cue: fixed-price fixes the price, cost plus reimburses costs plus a fee, and T&M charges for labor time plus materials.
