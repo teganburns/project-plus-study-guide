@@ -58,6 +58,13 @@ permalink: /study-guide/chapter-02/
 
   <p class="study-note">Exam cue: Scrum is sprint-based and timeboxed. Kanban is pull-based and flow-based.</p>
 
+  <h2>Lean</h2>
+  <p>Lean focuses on removing anything that does not add value. It originated in manufacturing, but its ideas can be applied to many environments, including project management, software, operations, and service work.</p>
+
+  <p>The main Lean mindset is to improve flow and reduce waste. Waste can include unnecessary steps, delays, rework, excess handoffs, unused effort, or work that does not help produce value for the customer or organization.</p>
+
+  <p class="study-note">Exam cue: Lean means maximize value by reducing waste.</p>
+
   <h2>Selecting an Approach</h2>
   <p>The right approach depends on environmental factors, company culture, organizational structure, industry expectations, stability, uncertainty, schedule and budget constraints, funding availability, and stakeholder expectations. Day-to-day stakeholder involvement and uncertain requirements often point toward Agile. Stable requirements, predictable work, and occasional formal stakeholder updates often point toward Waterfall.</p>
 

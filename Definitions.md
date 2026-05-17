@@ -348,6 +348,25 @@ permalink: /definitions/
           </div>
         </article>
 
+        <article class="definition-card" data-category="chapter-2" data-search="lean remove anything that does not add value waste reduction maximize value manufacturing continuous improvement flow delays rework handoffs" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 2</p>
+              <h2>Lean</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Lean</h2>
+              <p>An approach focused on removing anything that does not add value.</p>
+              <ul>
+                <li>Originated in manufacturing but can be applied to other environments.</li>
+                <li>Improves flow by reducing waste, delays, rework, excess handoffs, and unnecessary effort.</li>
+                <li>Focuses on maximizing value for the customer or organization.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> Lean means reduce waste and keep value-adding work.</p>
+            </div>
+          </div>
+        </article>
+
         <article class="definition-card" data-category="chapter-2" data-search="hybrid approach predictive agile combination waterfall adaptive phases mixed methods" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">
