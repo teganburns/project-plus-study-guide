@@ -162,4 +162,21 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: D.</strong> Predictive methodology is often also known as Waterfall.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 9</p>
+    <h2>Which of the following is true about product requirements in an Agile project?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>They are closely analysed at the beginning</li>
+      <li>They are expected to evolve over time</li>
+      <li>They are adaptive and iterative</li>
+      <li>They can never exceed a total of 50 at any one time</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B.</strong> Agile product requirements are expected to evolve over time as the team learns, receives feedback, and adapts the product.</p>
+    </details>
+  </article>
 </section>
