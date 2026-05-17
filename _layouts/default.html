@@ -56,24 +56,105 @@
         text-decoration: none;
       }
 
-      nav {
+      .site-header nav {
         display: flex;
         flex-wrap: wrap;
         gap: 14px;
       }
 
-      nav a {
+      .site-header nav a {
         color: var(--muted);
         font-size: 0.95rem;
         text-decoration: none;
       }
 
-      nav a:hover {
+      .site-header nav a:hover {
         color: var(--accent);
       }
 
-      main {
+      .page-content,
+      .docs-content {
         padding: 44px 0 64px;
+      }
+
+      .docs-shell {
+        display: grid;
+        grid-template-columns: 280px minmax(0, 1fr);
+        gap: 32px;
+        width: min(1320px, calc(100% - 32px));
+        margin: 0 auto;
+      }
+
+      .docs-sidebar {
+        position: sticky;
+        top: 0;
+        align-self: start;
+        max-height: 100vh;
+        padding: 28px 14px 28px 0;
+        border-right: 1px solid var(--line);
+        overflow: auto;
+      }
+
+      .docs-sidebar-title {
+        margin: 0 0 10px;
+        padding: 0 12px;
+        color: var(--muted);
+        font-size: 0.78rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .docs-menu-list {
+        display: grid;
+        gap: 2px;
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      }
+
+      .docs-menu-link,
+      .docs-menu-button {
+        display: block;
+        width: 100%;
+        padding: 8px 12px;
+        border: 0;
+        border-radius: 6px;
+        color: var(--ink);
+        background: transparent;
+        font: inherit;
+        font-size: 0.94rem;
+        font-weight: 650;
+        line-height: 1.3;
+        text-align: left;
+        text-decoration: none;
+      }
+
+      .docs-menu-button {
+        cursor: pointer;
+      }
+
+      .docs-menu-link:hover,
+      .docs-menu-button:hover,
+      .docs-menu-link.is-active,
+      .docs-menu-button.is-active {
+        color: var(--accent);
+        background: var(--accent-soft);
+      }
+
+      .docs-menu-link span,
+      .docs-menu-button span {
+        display: block;
+        color: var(--muted);
+        font-size: 0.76rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .docs-content {
+        min-width: 0;
+        max-width: 960px;
       }
 
       h1,
@@ -216,60 +297,9 @@
         outline: 3px solid var(--accent-soft);
       }
 
-      .definition-layout {
-        display: grid;
-        grid-template-columns: 220px minmax(0, 1fr);
-        gap: 24px;
-        align-items: start;
-        margin-top: 22px;
-      }
-
-      .definition-sidebar {
-        position: sticky;
-        top: 18px;
-        padding: 16px;
-        border: 1px solid var(--line);
-        border-radius: 8px;
-        background: var(--surface);
-      }
-
-      .definition-sidebar-title {
-        margin: 0 0 12px;
-        color: var(--muted);
-        font-size: 0.85rem;
-        font-weight: 800;
-        letter-spacing: 0;
-        text-transform: uppercase;
-      }
-
-      .definition-filter-list {
-        display: grid;
-        gap: 8px;
-      }
-
-      .definition-filter {
-        width: 100%;
-        min-height: 42px;
-        padding: 10px 12px;
-        border: 1px solid transparent;
-        border-radius: 8px;
-        color: var(--muted);
-        background: transparent;
-        cursor: pointer;
-        font: inherit;
-        font-weight: 700;
-        text-align: left;
-      }
-
-      .definition-filter:hover,
-      .definition-filter.is-active {
-        border-color: var(--accent);
-        color: var(--accent);
-        background: var(--accent-soft);
-      }
-
       .definition-results {
         min-width: 0;
+        margin-top: 22px;
       }
 
       .definition-result-count {
@@ -531,7 +561,8 @@
           flex-direction: column;
         }
 
-        main {
+        .page-content,
+        .docs-content {
           padding-top: 32px;
         }
 
@@ -551,22 +582,26 @@
       }
 
       @media (max-width: 760px) {
-        .definition-layout {
+        .docs-shell {
           display: block;
         }
 
-        .definition-sidebar {
+        .docs-sidebar {
           position: static;
-          margin-bottom: 18px;
+          max-height: none;
+          margin: 0 auto;
+          padding: 18px 0 0;
+          border-right: 0;
         }
 
-        .definition-filter-list {
+        .docs-menu-list {
           display: flex;
           flex-wrap: wrap;
           gap: 8px;
         }
 
-        .definition-filter {
+        .docs-menu-link,
+        .docs-menu-button {
           width: auto;
           flex: 1 1 140px;
           text-align: center;
@@ -581,6 +616,23 @@
     </style>
   </head>
   <body>
+    {% assign show_docs_sidebar = false %}
+    {% assign docs_title = "" %}
+    {% assign docs_section = "" %}
+    {% if page.url contains '/study-guide/' %}
+      {% assign show_docs_sidebar = true %}
+      {% assign docs_title = "Study Guide" %}
+      {% assign docs_section = "study-guide" %}
+    {% elsif page.url contains '/quizzes/' %}
+      {% assign show_docs_sidebar = true %}
+      {% assign docs_title = "Quizzes" %}
+      {% assign docs_section = "quizzes" %}
+    {% elsif page.url contains '/definitions/' %}
+      {% assign show_docs_sidebar = true %}
+      {% assign docs_title = "Definitions" %}
+      {% assign docs_section = "definitions" %}
+    {% endif %}
+
     <header class="site-header">
       <div class="wrap">
         <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
@@ -594,44 +646,99 @@
       </div>
     </header>
 
-    <main class="wrap">
-      {{ content }}
+    {% if show_docs_sidebar %}
+      <div class="docs-shell">
+        <aside class="docs-sidebar" aria-label="{{ docs_title }} navigation">
+          <p class="docs-sidebar-title">{{ docs_title }}</p>
+          <nav aria-label="{{ docs_title }} navigation">
+            <ul class="docs-menu-list">
+              {% if docs_section == "study-guide" %}
+                <li>
+                  <a class="docs-menu-link{% if page.url == '/study-guide/' %} is-active{% endif %}" href="{{ '/study-guide/' | relative_url }}">Study Guide Home</a>
+                </li>
+                {% for chapter in site.data.chapters %}
+                  {% assign chapter_url = '/study-guide/chapter-' | append: chapter.slug | append: '/' %}
+                  <li>
+                    <a class="docs-menu-link{% if page.url == chapter_url %} is-active{% endif %}" href="{{ chapter_url | relative_url }}">
+                      <span>Ch. {{ chapter.number }}</span>
+                      {{ chapter.short_title }}
+                    </a>
+                  </li>
+                {% endfor %}
+              {% elsif docs_section == "quizzes" %}
+                <li>
+                  <a class="docs-menu-link{% if page.url == '/quizzes/' %} is-active{% endif %}" href="{{ '/quizzes/' | relative_url }}">Quiz Home</a>
+                </li>
+                {% for chapter in site.data.chapters %}
+                  {% assign chapter_url = '/quizzes/chapter-' | append: chapter.slug | append: '/' %}
+                  <li>
+                    <a class="docs-menu-link{% if page.url == chapter_url %} is-active{% endif %}" href="{{ chapter_url | relative_url }}">
+                      <span>Ch. {{ chapter.number }}</span>
+                      {{ chapter.short_title }}
+                    </a>
+                  </li>
+                {% endfor %}
+              {% elsif docs_section == "definitions" %}
+                <li>
+                  <button class="docs-menu-button definition-filter is-active" type="button" data-definition-category="all" aria-pressed="true">All Definitions</button>
+                </li>
+                {% for chapter in site.data.chapters %}
+                  <li>
+                    <button class="docs-menu-button definition-filter" type="button" data-definition-category="{{ chapter.category }}" aria-pressed="false">
+                      <span>Ch. {{ chapter.number }}</span>
+                      {{ chapter.short_title }}
+                    </button>
+                  </li>
+                {% endfor %}
+              {% endif %}
+            </ul>
+          </nav>
+        </aside>
 
-      {% if page.url contains '/quizzes/chapter-' %}
-        {% assign chapter_slug = page.url | split: '/quizzes/chapter-' | last | split: '/' | first %}
-        {% assign chapter_number = chapter_slug | plus: 0 %}
-        {% assign previous_chapter = chapter_number | minus: 1 %}
-        {% assign next_chapter = chapter_number | plus: 1 %}
+        <main class="docs-content">
+          {{ content }}
 
-        <nav class="chapter-pager" aria-label="Quiz chapter navigation">
-          {% if previous_chapter >= 1 %}
-            {% capture previous_slug %}{% if previous_chapter < 10 %}0{% endif %}{{ previous_chapter }}{% endcapture %}
-            <a class="chapter-pager-previous" href="{{ '/quizzes/chapter-' | append: previous_slug | append: '/' | relative_url }}">
-              <span>Previous Quiz</span>
-              <strong>Ch. {{ previous_chapter }}</strong>
-            </a>
-          {% else %}
-            <a class="chapter-pager-previous" href="{{ '/quizzes/' | relative_url }}">
-              <span>Previous</span>
-              <strong>All Quiz Chapters</strong>
-            </a>
+          {% if page.url contains '/quizzes/chapter-' %}
+            {% assign chapter_slug = page.url | split: '/quizzes/chapter-' | last | split: '/' | first %}
+            {% assign chapter_number = chapter_slug | plus: 0 %}
+            {% assign previous_chapter = chapter_number | minus: 1 %}
+            {% assign next_chapter = chapter_number | plus: 1 %}
+
+            <nav class="chapter-pager" aria-label="Quiz chapter navigation">
+              {% if previous_chapter >= 1 %}
+                {% capture previous_slug %}{% if previous_chapter < 10 %}0{% endif %}{{ previous_chapter }}{% endcapture %}
+                <a class="chapter-pager-previous" href="{{ '/quizzes/chapter-' | append: previous_slug | append: '/' | relative_url }}">
+                  <span>Previous Quiz</span>
+                  <strong>Ch. {{ previous_chapter }}</strong>
+                </a>
+              {% else %}
+                <a class="chapter-pager-previous" href="{{ '/quizzes/' | relative_url }}">
+                  <span>Previous</span>
+                  <strong>All Quiz Chapters</strong>
+                </a>
+              {% endif %}
+
+              {% if next_chapter <= 14 %}
+                {% capture next_slug %}{% if next_chapter < 10 %}0{% endif %}{{ next_chapter }}{% endcapture %}
+                <a class="chapter-pager-next" href="{{ '/quizzes/chapter-' | append: next_slug | append: '/' | relative_url }}">
+                  <span>Next Quiz</span>
+                  <strong>Ch. {{ next_chapter }}</strong>
+                </a>
+              {% else %}
+                <a class="chapter-pager-next" href="{{ '/quizzes/' | relative_url }}">
+                  <span>Next</span>
+                  <strong>All Quiz Chapters</strong>
+                </a>
+              {% endif %}
+            </nav>
           {% endif %}
-
-          {% if next_chapter <= 14 %}
-            {% capture next_slug %}{% if next_chapter < 10 %}0{% endif %}{{ next_chapter }}{% endcapture %}
-            <a class="chapter-pager-next" href="{{ '/quizzes/chapter-' | append: next_slug | append: '/' | relative_url }}">
-              <span>Next Quiz</span>
-              <strong>Ch. {{ next_chapter }}</strong>
-            </a>
-          {% else %}
-            <a class="chapter-pager-next" href="{{ '/quizzes/' | relative_url }}">
-              <span>Next</span>
-              <strong>All Quiz Chapters</strong>
-            </a>
-          {% endif %}
-        </nav>
-      {% endif %}
-    </main>
+        </main>
+      </div>
+    {% else %}
+      <main class="wrap page-content">
+        {{ content }}
+      </main>
+    {% endif %}
 
     <footer class="site-footer">
       <div class="wrap">

@@ -1,0 +1,70 @@
+- number: 1
+  slug: "01"
+  title: "Project+ Foundations and Certification Overview"
+  short_title: "Foundations & Certification"
+  category: "chapter-1"
+- number: 2
+  slug: "02"
+  title: "Comparing Project Management Methodologies"
+  short_title: "Comparing Methodologies"
+  category: "chapter-2"
+- number: 3
+  slug: "03"
+  title: "Discovery and Concept Planning Fundamentals"
+  short_title: "Discovery & Concept Planning"
+  category: "chapter-3"
+- number: 4
+  slug: "04"
+  title: "Core Principles of Project Initiation"
+  short_title: "Project Initiation"
+  category: "chapter-4"
+- number: 5
+  slug: "05"
+  title: "Managing Scope, Modifications, and Change Control"
+  short_title: "Scope & Change Control"
+  category: "chapter-5"
+- number: 6
+  slug: "06"
+  title: "Building and Maintaining Project Schedules"
+  short_title: "Project Schedules"
+  category: "chapter-6"
+- number: 7
+  slug: "07"
+  title: "Security, Privacy, and Compliance in Projects"
+  short_title: "Security & Compliance"
+  category: "chapter-7"
+- number: 8
+  slug: "08"
+  title: "Risk Assessment and Issue Resolution Strategies"
+  short_title: "Risk & Issue Resolution"
+  category: "chapter-8"
+- number: 9
+  slug: "09"
+  title: "Team Leadership and Resource Coordination"
+  short_title: "Team & Resources"
+  category: "chapter-9"
+- number: 10
+  slug: "10"
+  title: "Communication Strategy and Meeting Facilitation"
+  short_title: "Communication & Meetings"
+  category: "chapter-10"
+- number: 11
+  slug: "11"
+  title: "Project Execution Processes and Oversight"
+  short_title: "Execution & Oversight"
+  category: "chapter-11"
+- number: 12
+  slug: "12"
+  title: "Project Closure and Finalization Activities"
+  short_title: "Closure & Finalization"
+  category: "chapter-12"
+- number: 13
+  slug: "13"
+  title: "Project Tools, Systems, and Documentation Practices"
+  short_title: "Tools & Documentation"
+  category: "chapter-13"
+- number: 14
+  slug: "14"
+  title: "Foundational IT Concepts for Project Managers"
+  short_title: "IT Concepts for PMs"
+  category: "chapter-14"
