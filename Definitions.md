@@ -1230,6 +1230,190 @@ permalink: /definitions/
             </div>
           </div>
         </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="project management plan planning defines how project executed monitored controlled closed main output planning scope schedule budget resources risk transition" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Project Management Plan</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Project Management Plan</h2>
+              <p>The document that defines how the project is executed, monitored and controlled, and closed.</p>
+              <ul>
+                <li>It is the main output of project planning activities.</li>
+                <li>It may be supported by detailed plans for scope, schedule, budget, resources, risk, quality, communication, change, and transition.</li>
+                <li>It explains how the project will be managed across the rest of the lifecycle.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> the project management plan tells us how the project will be run.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="product scope specific features functions characteristics product what creating how product functions behaves requirements" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Product Scope</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Product Scope</h2>
+              <p>The specific features and functions that characterize what the project is creating.</p>
+              <ul>
+                <li>Focuses on the product, service, or result itself.</li>
+                <li>Describes how the product is expected to function or behave.</li>
+                <li>Answers: what should the finished thing do?</li>
+              </ul>
+              <p><strong>Exam cue:</strong> product scope is about features and functions.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="project scope work performed deliver product specified features functions tools processes deliverables scope management work required" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Project Scope</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Project Scope</h2>
+              <p>The work performed to deliver the product with the specified features and functions.</p>
+              <ul>
+                <li>Focuses on the project work needed to create the product, service, or result.</li>
+                <li>Includes the tools, processes, deliverables, and work boundaries used to deliver the product.</li>
+                <li>Answers: what work must the project do?</li>
+              </ul>
+              <p><strong>Exam cue:</strong> project scope is about the work needed to deliver the product.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="wbs work breakdown structure hierarchical deliverables decomposes scope work packages bite sized pieces not activities schedule wbs dictionary" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>WBS</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>WBS</h2>
+              <p>Work Breakdown Structure: a hierarchical breakdown of project scope into smaller deliverable pieces.</p>
+              <ul>
+                <li>Breaks major deliverables into manageable work packages.</li>
+                <li>Work packages are deliverables or outputs, not schedule activities.</li>
+                <li>The WBS dictionary adds supporting detail for WBS elements.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> WBS = deliverable breakdown. Activities come later when building the schedule.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="scope baseline approved version scope statement wbs work breakdown structure wbs dictionary formal change control compare actual results performance measurement" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Scope Baseline</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Scope Baseline</h2>
+              <p>The approved version of the scope statement, WBS, and WBS dictionary.</p>
+              <ul>
+                <li>Used as the basis for comparing planned scope against actual results.</li>
+                <li>Can only be changed through formal change control.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> scope baseline means approved scope package, not just the scope statement by itself.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="scope creep uncontrolled expansion product project scope without adjustment time cost resources changes knock on effects change control" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Scope Creep</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Scope Creep</h2>
+              <p>The uncontrolled expansion of product or project scope without matching adjustments to time, cost, or resources.</p>
+              <ul>
+                <li>Often starts with small informal changes.</li>
+                <li>Can create knock-on effects across schedule, budget, staffing, testing, and risk.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> approved scope change is controlled; scope creep is uncontrolled.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="change request written request reason justification scope schedule budget change control submitted by anyone project" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Change Request</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Change Request</h2>
+              <p>A written request to change some part of the project or product.</p>
+              <ul>
+                <li>Can be submitted by anyone associated with the project.</li>
+                <li>Should explain the reason and justification for the change.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> write it down before assessing or approving it.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="change request log tracking document id requestor description status approved denied notes decision reasons communication" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>Change Request Log</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Change Request Log</h2>
+              <p>A tracking document used to record and monitor change requests.</p>
+              <ul>
+                <li>Common fields include ID, requestor, description, status, approval decision, and notes.</li>
+                <li>Helps communicate what was requested, decided, and why.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> log the request so it does not disappear into hallway conversation.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="ccb change control board panel review approve deny change requests decision authority change control sponsor project manager" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>CCB</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>CCB</h2>
+              <p>Change Control Board: a group of people who review change requests and have authority to approve or deny them.</p>
+              <ul>
+                <li>May be used for larger or higher-impact changes.</li>
+                <li>Some smaller changes may be handled by the project manager or sponsor, depending on the change-control rules.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> CCB equals change decision authority.</p>
+            </div>
+          </div>
+        </article>
+
+        <article class="definition-card" data-category="chapter-5" data-search="mvp minimum viable product agile minimum working product users try feedback scope value product requirements" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Chapter 5</p>
+              <h2>MVP</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>MVP</h2>
+              <p>Minimum Viable Product: the smallest working product that users can try out and give feedback on.</p>
+              <ul>
+                <li>Includes only the minimum needed to be useful and testable.</li>
+                <li>Helps the team learn before building every possible feature.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> MVP is minimum, but still viable. It must work enough to deliver value or feedback.</p>
+            </div>
+          </div>
+        </article>
       </div>
 
       <p class="definition-empty" id="definition-empty" hidden>No matching definitions. Try a different keyword or category.</p>

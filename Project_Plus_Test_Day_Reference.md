@@ -50,6 +50,40 @@ Quick test phrasing: a project is temporary work done for a specific purpose to 
 
 Quick cue: R does the work, A approves/signs off, C gives input, I stays informed. RACI should have only one Accountable person per item, and that person can also be Responsible.
 
+## Scope And Planning
+
+- Project management plan: defines how the project is executed, monitored and controlled, and closed.
+- Product scope: features and functions of what is being created. Think how the product works.
+- Project scope: work, tools, processes, and deliverables needed to create the product.
+- Requirements: gathered from stakeholders, documented in an RTM, then narrowed into final product/project descriptions.
+- Scope statement: describes the project, product, major deliverables, and exclusions.
+- WBS: Work Breakdown Structure. Breaks scope into smaller deliverable work packages, not activities.
+- WBS dictionary: supporting detail for WBS elements or work packages.
+- Scope baseline: approved scope statement + WBS + WBS dictionary. Changed only through formal change control.
+
+Quick cue: product scope = what the product does; project scope = what work the project does. Requirements feed the scope statement; the WBS breaks deliverables into work packages; the approved scope statement helps form the scope baseline.
+
+Units of work: in Agile, use the product backlog; in predictive/waterfall, decompose scope statement deliverables into WBS work packages.
+
+Triple constraint / iron triangle: cost, time, and scope are linked. A constraint is a limiting factor. If one changes, the others may need to change too, or quality can suffer. Less scope delivered quickly and cheaply aligns with Agile MVP thinking.
+
+Predictive change control cues:
+
+- Scope creep: uncontrolled scope expansion without adjusting time, cost, or resources.
+- Change request: written request with reason and justification.
+- Change request log: tracks ID, requestor, description, status, decision, and notes.
+- CCB: Change Control Board. Reviews changes and can approve or deny them.
+- Simplified flow: request -> log -> review feasibility -> assess impact -> document recommendation -> approve or deny -> communicate -> update plan -> implement -> validate -> communicate deployment.
+- Predictive/waterfall: only approved changes are incorporated. Agile: changes are usually handled through backlog refinement and reprioritization.
+
+Agile scope cues:
+
+- Detailed scope is defined at the beginning of each iteration.
+- User stories describe features from a business value perspective and live in the product backlog.
+- Changes are expected and managed by reprioritizing the product backlog.
+- Backlog refinement or grooming keeps the backlog current and relevant.
+- MVP: Minimum Viable Product. Just enough working features to get feedback quickly.
+
 ## Project Selection Methods
 
 - Linear and nonlinear programming: mathematical modeling for constrained optimization.

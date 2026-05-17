@@ -269,6 +269,86 @@
         background: var(--accent-soft);
       }
 
+      .study-visual {
+        margin: 28px 0;
+        padding: 22px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: #ffffff;
+        box-shadow: 0 10px 28px rgba(31, 41, 51, 0.08);
+      }
+
+      .study-visual figcaption {
+        margin: 0 0 18px;
+        color: var(--muted);
+        font-size: 0.98rem;
+        font-weight: 700;
+      }
+
+      .constraint-visual-grid {
+        display: grid;
+        grid-template-columns: minmax(260px, 1.05fr) minmax(240px, 0.95fr);
+        gap: 24px;
+        align-items: center;
+      }
+
+      .iron-triangle {
+        width: 100%;
+        height: auto;
+      }
+
+      .constraint-slider-board {
+        padding: 18px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--surface);
+      }
+
+      .constraint-slider-title {
+        margin: 0 0 16px;
+        color: var(--ink);
+        font-size: 1rem;
+        font-weight: 800;
+      }
+
+      .constraint-slider-grid {
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 14px;
+        min-height: 250px;
+      }
+
+      .constraint-slider {
+        display: grid;
+        grid-template-rows: auto 1fr auto auto;
+        justify-items: center;
+        gap: 8px;
+        min-width: 0;
+      }
+
+      .constraint-slider span {
+        color: var(--muted);
+        font-size: 0.84rem;
+        font-weight: 750;
+        text-align: center;
+      }
+
+      .constraint-track {
+        width: 14px;
+        min-height: 150px;
+        border-radius: 999px;
+        background: linear-gradient(180deg, #1f6feb 0%, #93c5fd 48%, #d8e0e8 100%);
+      }
+
+      .constraint-name {
+        margin: 0;
+        color: var(--accent);
+        font-size: 0.9rem;
+        font-weight: 850;
+        text-align: center;
+        text-transform: uppercase;
+      }
+
       .definition-browser {
         margin-top: 28px;
       }
@@ -564,6 +644,18 @@
         .page-content,
         .docs-content {
           padding-top: 32px;
+        }
+
+        .study-visual {
+          padding: 16px;
+        }
+
+        .constraint-visual-grid {
+          grid-template-columns: 1fr;
+        }
+
+        .constraint-slider-grid {
+          min-height: 210px;
         }
 
         .definition-card,
