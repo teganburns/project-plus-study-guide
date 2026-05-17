@@ -142,8 +142,19 @@ permalink: /quizzes/
 
 <section class="quiz-list" aria-label="Project management approaches practice questions">
   <article class="quiz-card">
-    <p class="quiz-meta">Coming next</p>
-    <h2>Waterfall, Agile, Scrum, hybrid approaches, and other frameworks</h2>
-    <p>This section is reserved for the new approach-focused quiz set.</p>
+    <p class="quiz-meta">Approaches Question 1</p>
+    <h2>The Waterfall project management approach might also be known as what?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li><strong>Predictive</strong></li>
+      <li>Adaptive</li>
+      <li>Agile</li>
+      <li>Traditional</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: A.</strong> Waterfall may also be called predictive because the work is planned upfront and follows defined phases.</p>
+    </details>
   </article>
 </section>
