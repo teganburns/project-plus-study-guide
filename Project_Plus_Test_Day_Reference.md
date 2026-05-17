@@ -40,3 +40,16 @@ Exam traps:
 - "Short term" is not always correct. Projects are temporary, but they can still last a long time.
 
 Quick test phrasing: a project is temporary work done for a specific purpose to create something unique.
+
+## Project Selection Methods
+
+- Linear and nonlinear programming: mathematical modeling for constrained optimization.
+- NPV: Net Present Value. Money is worth more today than tomorrow. Choose a high NPV.
+- IRR: Internal Rate of Return. If the project were an interest rate percentage, what would it be? Choose a high IRR.
+- ROI: Return on Investment. Shows how much money will be made when investing. Choose a high ROI.
+- BCR: Benefit-Cost Ratio. How much money comes back for each dollar invested. A BCR of 2:1 means $2 back for every $1 invested. The first number should be bigger than the second.
+- PBP: Payback Period. How long it takes to recover the investment. Shorter is preferred.
+- Scoring model: matrix where projects are rated against weighted criteria.
+- Opportunity cost: the value of other opportunities given up by choosing this project.
+
+Quick cue: high NPV, high IRR, high ROI, BCR greater than 1, short PBP.
