@@ -27,4 +27,52 @@ permalink: /study-guide/chapter-03/
   </ul>
 
   <p class="study-note">Exam cue: higher IRR is better, BCR should be greater than 1, and shorter payback is usually better.</p>
+
+  <h2>Scoring Model</h2>
+  <p>A scoring model is an objective project selection method. The team identifies relevant criteria, weights them according to importance, and then scores each project against those criteria. Each score is multiplied by the criterion weight, and the project with the stronger total score is usually the better candidate.</p>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Criteria</th>
+        <th>Weight</th>
+        <th>Project A Score</th>
+        <th>Project B Score</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Profitability</td>
+        <td>5</td>
+        <td>3 x 5 = 15</td>
+        <td>4 x 5 = 20</td>
+      </tr>
+      <tr>
+        <td>Time to market</td>
+        <td>3</td>
+        <td>5 x 3 = 15</td>
+        <td>2 x 3 = 6</td>
+      </tr>
+      <tr>
+        <td>Ease of integration</td>
+        <td>1</td>
+        <td>4 x 1 = 4</td>
+        <td>3 x 1 = 3</td>
+      </tr>
+      <tr>
+        <td>Increase in market share</td>
+        <td>2</td>
+        <td>2 x 2 = 4</td>
+        <td>5 x 2 = 10</td>
+      </tr>
+      <tr>
+        <td><strong>Total</strong></td>
+        <td></td>
+        <td><strong>38</strong></td>
+        <td><strong>39</strong></td>
+      </tr>
+    </tbody>
+  </table>
+
+  <p class="study-note">Example cue: Project B wins by 1 point because its higher profitability and market-share scores outweigh Project A's faster time to market.</p>
 </section>
