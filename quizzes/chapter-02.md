@@ -17,7 +17,7 @@ permalink: /quizzes/chapter-02/
     <h2>The Waterfall project management approach might also be known as what?</h2>
 
     <ol class="quiz-options" type="A">
-      <li><strong>Predictive</strong></li>
+      <li>Predictive</li>
       <li>Adaptive</li>
       <li>Agile</li>
       <li>Traditional</li>
@@ -33,16 +33,23 @@ permalink: /quizzes/chapter-02/
     <p class="quiz-meta">Chapter 2 Question 2</p>
     <h2>Match up the two halves of the 4 values from the Agile Manifesto. We value:</h2>
 
-    <ul class="quiz-options">
-      <li><strong>Customer collaboration</strong> over contract negotiation</li>
-      <li><strong>Individuals and interactions</strong> over processes and tools</li>
-      <li><strong>Responding to change</strong> over following a plan</li>
-      <li><strong>Working software</strong> over comprehensive documentation</li>
+    <div class="quiz-word-bank" aria-label="Answer choices">
+      <span>Customer collaboration</span>
+      <span>Individuals and interactions</span>
+      <span>Responding to change</span>
+      <span>Working software</span>
+    </div>
+
+    <ul class="quiz-options quiz-matching">
+      <li>____________ over contract negotiation</li>
+      <li>____________ over processes and tools</li>
+      <li>____________ over following a plan</li>
+      <li>____________ over comprehensive documentation</li>
     </ul>
 
     <details class="quiz-answer">
       <summary>Show answer</summary>
-      <p><strong>Answer:</strong> Customer collaboration, Individuals and interactions, Responding to change, and Working software.</p>
+      <p><strong>Answer:</strong> Customer collaboration over contract negotiation; Individuals and interactions over processes and tools; Responding to change over following a plan; Working software over comprehensive documentation.</p>
       <p>Exam cue: Agile values the items before "over" more, while still recognizing value in the items after "over."</p>
     </details>
   </article>
@@ -53,7 +60,7 @@ permalink: /quizzes/chapter-02/
 
     <ol class="quiz-options" type="A">
       <li>To minimise the effort whilst maximising the output</li>
-      <li><strong>To satisfy the customer through continuous delivery of valuable software</strong></li>
+      <li>To satisfy the customer through continuous delivery of valuable software</li>
       <li>To build projects around motivated individuals, empowering them to get the job done</li>
       <li>To improve with every iteration</li>
     </ol>
@@ -70,10 +77,10 @@ permalink: /quizzes/chapter-02/
 
     <ol class="quiz-options" type="A">
       <li>Requirements are expected to evolve</li>
-      <li><strong>Major changes are not anticipated</strong></li>
+      <li>Major changes are not anticipated</li>
       <li>We're a small dynamic team with few internal processes</li>
-      <li><strong>We're working on a construction project</strong></li>
-      <li><strong>The stakeholders only expect a status update every 3 months</strong></li>
+      <li>We're working on a construction project</li>
+      <li>The stakeholders only expect a status update every 3 months</li>
     </ol>
 
     <details class="quiz-answer">

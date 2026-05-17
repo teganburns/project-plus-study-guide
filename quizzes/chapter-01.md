@@ -19,7 +19,7 @@ permalink: /quizzes/chapter-01/
     <ol class="quiz-options" type="A">
       <li>Marketing or admin people who need to learn the basics of project management</li>
       <li>Anyone who needs to understand the PMI concepts in detail</li>
-      <li><strong>IT pros who need to manage small projects</strong></li>
+      <li>IT pros who need to manage small projects</li>
       <li>Project Managers who want to avoid reading the PMBOK Guide</li>
     </ol>
 
@@ -37,7 +37,7 @@ permalink: /quizzes/chapter-01/
       <li>100 multiple choice questions</li>
       <li>50 questions and a case study</li>
       <li>10 questions and 10 case studies</li>
-      <li><strong>A maximum of 90 questions</strong></li>
+      <li>A maximum of 90 questions</li>
     </ol>
 
     <details class="quiz-answer">
@@ -52,10 +52,10 @@ permalink: /quizzes/chapter-01/
 
     <ol class="quiz-options" type="A">
       <li>Can follow either predictive or agile methodologies</li>
-      <li><strong>Has a start and finish</strong></li>
+      <li>Has a start and finish</li>
       <li>Lasts less than 24 months</li>
-      <li><strong>Is unique</strong></li>
-      <li><strong>Has a reason or purpose</strong></li>
+      <li>Is unique</li>
+      <li>Has a reason or purpose</li>
       <li>Uses Kanban boards</li>
     </ol>
 
@@ -71,8 +71,8 @@ permalink: /quizzes/chapter-01/
 
     <ol class="quiz-options" type="A">
       <li>Project is the term used in traditional frameworks, whereas modern alternatives will use the term operations instead</li>
-      <li><strong>Operations could continue indefinitely and are therefore not constrained by time</strong></li>
-      <li><strong>When a project is successfully completed, it will be handed over to operations</strong></li>
+      <li>Operations could continue indefinitely and are therefore not constrained by time</li>
+      <li>When a project is successfully completed, it will be handed over to operations</li>
       <li>Unlike a project, operations will never be unique, nor have a defined purpose</li>
     </ol>
 
@@ -88,13 +88,13 @@ permalink: /quizzes/chapter-01/
 
     <ol class="quiz-options" type="A">
       <li>Project Kick-off</li>
-      <li><strong>Discovery / Concept Preparation</strong></li>
-      <li><strong>Initiation</strong></li>
-      <li><strong>Planning</strong></li>
+      <li>Discovery / Concept Preparation</li>
+      <li>Initiation</li>
+      <li>Planning</li>
       <li>Define a budget</li>
-      <li><strong>Execution</strong></li>
+      <li>Execution</li>
       <li>Monitoring and Controlling</li>
-      <li><strong>Closing</strong></li>
+      <li>Closing</li>
     </ol>
 
     <details class="quiz-answer">
@@ -109,7 +109,7 @@ permalink: /quizzes/chapter-01/
 
     <ol class="quiz-options" type="A">
       <li>Discovery / Concept Preparation</li>
-      <li><strong>Initiation</strong></li>
+      <li>Initiation</li>
       <li>Planning</li>
       <li>Execution</li>
       <li>Closing</li>
@@ -127,7 +127,7 @@ permalink: /quizzes/chapter-01/
 
     <ol class="quiz-options" type="A">
       <li>Projects will only be part of a portfolio if the organisation has a PMO</li>
-      <li><strong>Projects can stand alone or be part of a program or portfolio</strong></li>
+      <li>Projects can stand alone or be part of a program or portfolio</li>
       <li>Projects are always part of either a program or portfolio</li>
       <li>Small projects will be part of a program, while larger more complex projects will be part of a portfolio</li>
     </ol>
