@@ -263,6 +263,25 @@ permalink: /definitions/
           </div>
         </article>
 
+        <article class="definition-card" data-category="approaches" data-search="agile manifesto values individuals interactions processes tools working software comprehensive documentation customer collaboration contract negotiation responding to change following a plan" role="button" tabindex="0" aria-pressed="false">
+          <div class="definition-card-inner">
+            <div class="definition-face definition-front">
+              <p class="definition-label">Approaches</p>
+              <h2>Agile Manifesto Values</h2>
+            </div>
+            <div class="definition-face definition-back">
+              <h2>Agile Manifesto Values</h2>
+              <ul>
+                <li>Individuals and interactions over processes and tools.</li>
+                <li>Working software over comprehensive documentation.</li>
+                <li>Customer collaboration over contract negotiation.</li>
+                <li>Responding to change over following a plan.</li>
+              </ul>
+              <p><strong>Exam cue:</strong> Agile values the items on the left more, but the items on the right still have value.</p>
+            </div>
+          </div>
+        </article>
+
         <article class="definition-card" data-category="approaches" data-search="selecting an approach predictive agile hybrid requirements uncertainty risk change complexity stakeholders" role="button" tabindex="0" aria-pressed="false">
           <div class="definition-card-inner">
             <div class="definition-face definition-front">

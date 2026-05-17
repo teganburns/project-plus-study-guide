@@ -157,4 +157,22 @@ permalink: /quizzes/
       <p><strong>Answer: A.</strong> Waterfall may also be called predictive because the work is planned upfront and follows defined phases.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Approaches Question 2</p>
+    <h2>Match up the two halves of the 4 values from the Agile Manifesto. We value:</h2>
+
+    <ul class="quiz-options">
+      <li><strong>Customer collaboration</strong> over contract negotiation</li>
+      <li><strong>Individuals and interactions</strong> over processes and tools</li>
+      <li><strong>Responding to change</strong> over following a plan</li>
+      <li><strong>Working software</strong> over comprehensive documentation</li>
+    </ul>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer:</strong> Customer collaboration, Individuals and interactions, Responding to change, and Working software.</p>
+      <p>Exam cue: Agile values the items before "over" more, while still recognizing value in the items after "over."</p>
+    </details>
+  </article>
 </section>
