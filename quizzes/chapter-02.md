@@ -196,4 +196,21 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer: B and D.</strong> Agile values customer collaboration over contract negotiation, and individuals and interactions over processes and tools.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 11</p>
+    <h2>Which of the following are roles identified in Scrum? Choose 2.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Lead Developer</li>
+      <li>Scrum Master</li>
+      <li>Product Owner</li>
+      <li>Project Manager</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B and C.</strong> Scrum identifies the Scrum Master and Product Owner roles. Developers are also part of the Scrum team, but Lead Developer and Project Manager are not Scrum roles in this question.</p>
+    </details>
+  </article>
 </section>
