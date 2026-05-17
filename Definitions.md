@@ -19,6 +19,18 @@ permalink: /definitions/
         <button class="definition-filter is-active" type="button" data-definition-category="all" aria-pressed="true">All</button>
         <button class="definition-filter" type="button" data-definition-category="chapter-1" aria-pressed="false">Chapter 1: Foundations &amp; Lifecycle</button>
         <button class="definition-filter" type="button" data-definition-category="chapter-2" aria-pressed="false">Chapter 2: Comparing PM Approaches</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-3" aria-pressed="false">Chapter 3: Discovery &amp; Concept Planning</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-4" aria-pressed="false">Chapter 4: Project Initiation</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-5" aria-pressed="false">Chapter 5: Scope &amp; Change Control</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-6" aria-pressed="false">Chapter 6: Project Schedules</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-7" aria-pressed="false">Chapter 7: Security, Privacy &amp; Compliance</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-8" aria-pressed="false">Chapter 8: Risk &amp; Issue Resolution</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-9" aria-pressed="false">Chapter 9: Team &amp; Resource Coordination</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-10" aria-pressed="false">Chapter 10: Communication &amp; Meetings</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-11" aria-pressed="false">Chapter 11: Execution &amp; Oversight</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-12" aria-pressed="false">Chapter 12: Closure &amp; Finalization</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-13" aria-pressed="false">Chapter 13: Tools, Systems &amp; Documentation</button>
+        <button class="definition-filter" type="button" data-definition-category="chapter-14" aria-pressed="false">Chapter 14: IT Concepts for PMs</button>
       </div>
     </aside>
 

@@ -130,6 +130,64 @@
         background: var(--accent-soft);
       }
 
+      .chapter-index {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+        gap: 10px;
+        margin: 28px 0 42px;
+        padding: 0;
+        list-style: none;
+      }
+
+      .chapter-index a {
+        display: block;
+        min-height: 100%;
+        padding: 14px 16px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        color: var(--ink);
+        background: var(--surface);
+        font-weight: 700;
+        text-decoration: none;
+      }
+
+      .chapter-index a:hover {
+        border-color: var(--accent);
+        color: var(--accent);
+        background: var(--accent-soft);
+      }
+
+      .chapter-kicker {
+        margin: 0 0 8px;
+        color: var(--accent);
+        font-size: 0.82rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+
+      .study-section {
+        margin-top: 42px;
+        padding-top: 18px;
+        border-top: 1px solid var(--line);
+      }
+
+      .study-section h2 {
+        margin-top: 0;
+        padding-top: 0;
+        border-top: 0;
+      }
+
+      .study-section h3 {
+        margin-top: 28px;
+      }
+
+      .study-note {
+        padding: 16px;
+        border-left: 4px solid var(--accent);
+        background: var(--accent-soft);
+      }
+
       .definition-browser {
         margin-top: 28px;
       }
@@ -455,6 +513,7 @@
       <div class="wrap">
         <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
         <nav aria-label="Main navigation">
+          <a href="{{ '/study-guide/' | relative_url }}">Study Guide</a>
           <a href="{{ '/definitions/' | relative_url }}">Definitions</a>
           <a href="{{ '/quizzes/' | relative_url }}">Quizzes</a>
           <a href="{{ '/test-day-reference/' | relative_url }}">Test Day Reference</a>
@@ -485,6 +544,18 @@
         all: "all chapters",
         "chapter-1": "Chapter 1: Foundations & Lifecycle",
         "chapter-2": "Chapter 2: Comparing PM Approaches",
+        "chapter-3": "Chapter 3: Discovery & Concept Planning",
+        "chapter-4": "Chapter 4: Project Initiation",
+        "chapter-5": "Chapter 5: Scope & Change Control",
+        "chapter-6": "Chapter 6: Project Schedules",
+        "chapter-7": "Chapter 7: Security, Privacy & Compliance",
+        "chapter-8": "Chapter 8: Risk & Issue Resolution",
+        "chapter-9": "Chapter 9: Team & Resource Coordination",
+        "chapter-10": "Chapter 10: Communication & Meetings",
+        "chapter-11": "Chapter 11: Execution & Oversight",
+        "chapter-12": "Chapter 12: Closure & Finalization",
+        "chapter-13": "Chapter 13: Tools, Systems & Documentation",
+        "chapter-14": "Chapter 14: IT Concepts for PMs",
       };
 
       const normalizeText = (value) => value.toLowerCase().trim();
