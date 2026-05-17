@@ -50,4 +50,21 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer:</strong> Linear programming is used for constrained optimization; Benefit-Cost Ratio compares benefits gained with costs incurred; Net Present Value is based on money being worth more now than in the future.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 3</p>
+    <h2>If you were paying a monthly fee to lease computer hardware, how is this payment most likely to be treated from a financial perspective?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>As Capital Expenditure</li>
+      <li>As a pay-as-you-go cloud subscription</li>
+      <li>As temporary assets</li>
+      <li>As Operational Expenditure</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: D.</strong> A monthly lease payment is usually treated as operational expenditure because it is an ongoing operating cost rather than an upfront capital purchase.</p>
+    </details>
+  </article>
 </section>
