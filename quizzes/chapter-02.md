@@ -130,4 +130,19 @@ permalink: /quizzes/chapter-02/
       <p><strong>Answer:</strong> SAFe is a framework for scaling Agile; Kanban is famous for its task board; PRINCE2 is a process model for project organization and control; XP includes software engineering practices.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 2 Question 7</p>
+    <h2>It's never a good idea to combine elements of different project management frameworks. True or false?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>True</li>
+      <li>False</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B.</strong> False. Hybrid approaches can combine elements of different frameworks when the project benefits from a mixed approach.</p>
+    </details>
+  </article>
 </section>
