@@ -42,4 +42,23 @@ permalink: /quizzes/
       <p><strong>Answer: D.</strong> A maximum of 90 questions.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Question 3</p>
+    <h2>Which of the following are characteristics of a project? Choose 3.</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Can follow either predictive or agile methodologies</li>
+      <li><strong>Has a start and finish</strong></li>
+      <li>Lasts less than 24 months</li>
+      <li><strong>Is unique</strong></li>
+      <li><strong>Has a reason or purpose</strong></li>
+      <li>Uses Kanban boards</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: B, D, and E.</strong> A project has a start and finish, is unique, and has a reason or purpose.</p>
+    </details>
+  </article>
 </section>
