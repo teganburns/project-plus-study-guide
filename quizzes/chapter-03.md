@@ -145,4 +145,22 @@ permalink: /quizzes/chapter-03/
       <p><strong>Answer: C and D.</strong> Constrained optimisation is a mathematical project selection approach. PBP stands for Payback Period, which compares how long it will take to recover the project investment; shorter payback periods are usually preferred.</p>
     </details>
   </article>
+
+  <article class="quiz-card">
+    <p class="quiz-meta">Chapter 3 Question 8</p>
+    <h2>Which one of the following projects is likely to be the best choice based on the following benefits comparisons?</h2>
+
+    <ol class="quiz-options" type="A">
+      <li>Project A has an IRR of 6%</li>
+      <li>Project B has an opportunity cost of $250,000</li>
+      <li>Project C has an IRR of 22.5%</li>
+      <li>Project D has a payback period of 2 years</li>
+      <li>Project E has scored 98 on our project selection scoring matrix</li>
+    </ol>
+
+    <details class="quiz-answer">
+      <summary>Show answer</summary>
+      <p><strong>Answer: C.</strong> Project C is the best choice here because it has the stronger IRR. IRR stands for Internal Rate of Return, and a higher IRR is generally preferred when comparing project benefits.</p>
+    </details>
+  </article>
 </section>
